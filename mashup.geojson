@@ -555,6 +555,7 @@
         "Class": "Golf",
         "Rank": "1",
         "Name": "1. Pacific Dunes",
+        "descripton": "Bandon, Ore. -- $75-$275<br> bandondunesgolf.com (http://www.bandondunesgolf.com/)",
         "Lat": 43.205176,
         "Long": -124.395447,
         "marker-color": "#007f00"
@@ -573,6 +574,7 @@
         "Class": "Golf",
         "Rank": "2",
         "Name": "2. Pebble Beach Golf Links",
+        "descripton": "Pebble Beach, Calif. -- $495-$530<br>pebblebeach.com (http://www.pebblebeach.com/)",
         "Lat": 36.567739,
         "Long": -121.948639,
         "marker-color": "#007f00"
@@ -591,6 +593,7 @@
         "Class": "Golf",
         "Rank": "3",
         "Name": "3. Pinehurst Resort (No. 2)",
+        "descripton": "Pinehurst, N.C. -- $360-$420<br>pinehurst.com (http://www.pinehurst.com/)",
         "Lat": 35.187979,
         "Long": -79.46806,
         "marker-color": "#007f00"
@@ -609,6 +612,7 @@
         "Class": "Golf",
         "Rank": "4",
         "Name": "4. Whistling Straits Golf Club (Straits)",
+        "descripton": "Haven, Wisc. -- $360-$420<br>americanclubresort.com (http://www.americanclubresort.com/index.html)",
         "Lat": 43.853825,
         "Long": -87.73613,
         "marker-color": "#007f00"
@@ -627,6 +631,7 @@
         "Class": "Golf",
         "Rank": "5",
         "Name": "5. The Ocean Course at Kiawah Island Resort",
+        "descripton": "Kiawah Island, S.C. -- $217-$343<br>kiawahresort.com (http://www.kiawahresort.com/)",
         "Lat": 32.613406,
         "Long": -80.001326,
         "marker-color": "#007f00"
@@ -645,6 +650,7 @@
         "Class": "Golf",
         "Rank": "6",
         "Name": "6. Bethpage State Park (Black)",
+        "descripton": "Farmingdale, N.Y. -- $78-$150<br> nysparks.com (http://nysparks.com/golf-courses/)",
         "Lat": 40.746379,
         "Long": -73.458366,
         "marker-color": "#007f00"
@@ -663,6 +669,7 @@
         "Class": "Golf",
         "Rank": "7",
         "Name": "7. TPC Sawgrass (Players Stadium)",
+        "descripton": "Ponte Vedra Beach, Fla. -- $245-$385<br>tpc.com/sawgrass (http://www.tpc.com/tpc-sawgrass)",
         "Lat": 30.197811,
         "Long": -81.395001,
         "marker-color": "#007f00"
@@ -681,6 +688,7 @@
         "Class": "Golf",
         "Rank": "8",
         "Name": "8. Bandon Dunes",
+        "descripton": "Bandon, Ore. -- $75-$275<br> bandondunesgolf.com (http://www.bandondunesgolf.com/)",
         "Lat": 43.193886,
         "Long": -124.38983,
         "marker-color": "#007f00"
@@ -699,6 +707,7 @@
         "Class": "Golf",
         "Rank": "9",
         "Name": "9. Old Macdonald",
+        "descripton": "Bandon, Ore. -- $75-$275<br> bandondunesgolf.com (http://www.bandondunesgolf.com/)",
         "Lat": 43.18581,
         "Long": -124.398236,
         "marker-color": "#007f00"
@@ -717,6 +726,7 @@
         "Class": "Golf",
         "Rank": "10",
         "Name": "10. Spyglass Hill Golf Course",
+        "descripton": "Pebble Beach, Calif. -- $360-$395<br> pebblebeach.com (http://www.pebblebeach.com/)",
         "Lat": 36.585201,
         "Long": -121.956554,
         "marker-color": "#007f00"
@@ -735,6 +745,7 @@
         "Class": "Golf",
         "Rank": "11",
         "Name": "11. Blackwolf Run (River)",
+        "descripton": "Kohler, Wisc. -- $250-$280<br>americanclubresort.com (http://www.americanclubresort.com/index.html)",
         "Lat": 43.729367,
         "Long": -87.777672,
         "marker-color": "#007f00"
@@ -753,6 +764,7 @@
         "Class": "Golf",
         "Rank": "12",
         "Name": "12. Harbour Town Golf Links",
+        "descripton": "Hilton Head Island, S.C. -- $139-$259<br> seapines.com (http://www.seapines.com/)",
         "Lat": 32.137055,
         "Long": -80.813552,
         "marker-color": "#007f00"
@@ -771,6 +783,7 @@
         "Class": "Golf",
         "Rank": "13",
         "Name": "13. Pasatiempo Golf Club",
+        "descripton": "Santa Cruz, Calif. -- $220-$250<br> pasatiempo.com (http://www.pasatiempo.com/web/)",
         "Lat": 37.004198,
         "Long": -122.024975,
         "marker-color": "#007f00"
@@ -789,6 +802,7 @@
         "Class": "Golf",
         "Rank": "14",
         "Name": "14. Chambers Bay Golf Course",
+        "descripton": "University Place, Wash. -- $99-$205<br> chambersbaygolf.com (http://chambersbaygolf.com/chambersbay.asp?id=232&page=7996)",
         "Lat": 47.203185,
         "Long": -122.57575,
         "marker-color": "#007f00"
@@ -807,6 +821,7 @@
         "Class": "Golf",
         "Rank": "15",
         "Name": "15. Bandon Trails",
+        "descripton": "Bandon, Ore. -- $75-$275<br> bandondunesgolf.com (http://www.bandondunesgolf.com/)",
         "Lat": 43.207053,
         "Long": -124.385147,
         "marker-color": "#007f00"
@@ -825,6 +840,7 @@
         "Class": "Golf",
         "Rank": "16",
         "Name": "16. The Prince at Princeville",
+        "descripton": "Princeville, Kauai, Hawaii -- $150-$240<br> princeville.com (http://www.princeville.com/)",
         "Lat": 22.21204,
         "Long": -159.464922,
         "marker-color": "#007f00"
@@ -843,6 +859,7 @@
         "Class": "Golf",
         "Rank": "17",
         "Name": "17. Shadow Creek",
+        "descripton": "North Las Vegas, Nev. -- $500<br> shadowcreek.com (http://www.shadowcreek.com/pages/index_main.asp)",
         "Lat": 36.25784,
         "Long": -115.111656,
         "marker-color": "#007f00"
@@ -861,6 +878,7 @@
         "Class": "Golf",
         "Rank": "18",
         "Name": "18. Kapalua Resort (Plantation)",
+        "descripton": "Kapalua, Maui, Hawaii -- $168-$268<br> kapaluamaui.com (http://kapaluamaui.com/)",
         "Lat": 21.000247,
         "Long": -156.661134,
         "marker-color": "#007f00"
@@ -879,6 +897,7 @@
         "Class": "Golf",
         "Rank": "19",
         "Name": "19. World Woods (Pine Barrens)",
+        "descripton": "Brooksville, Fla. -- $40-$119<br> worldwoods.com (http://www.worldwoods.com/)",
         "Lat": 28.678277,
         "Long": -82.483206,
         "marker-color": "#007f00"
@@ -897,6 +916,7 @@
         "Class": "Golf",
         "Rank": "20",
         "Name": "20. Troon North Golf Club (Pinnacle)",
+        "descripton": "Scottsdale, Ariz. -- $85-$340<br> troonnorthgolf.com (http://www.troonnorthgolf.com/index.php)",
         "Lat": 33.746395,
         "Long": -111.856356,
         "marker-color": "#007f00"
@@ -915,6 +935,7 @@
         "Class": "Golf",
         "Rank": "21",
         "Name": "21. Cog Hill Golf Club (No. 4)",
+        "descripton": "Lemont, Ill. -- $155<br>coghillgolf.com (http://coghillgolf.com/home)",
         "Lat": 41.674675,
         "Long": -87.955384,
         "marker-color": "#007f00"
@@ -933,6 +954,7 @@
         "Class": "Golf",
         "Rank": "22",
         "Name": "22. Mauna Kea Golf Course",
+        "descripton": "Kamuela, Big Island, Hawaii -- $155-$250<br>princeresortshawaii.com (http://www.princeresortshawaii.com/mauna-kea-golf-course/index.php)",
         "Lat": 20.00037,
         "Long": -155.822536,
         "marker-color": "#007f00"
@@ -951,6 +973,7 @@
         "Class": "Golf",
         "Rank": "23",
         "Name": "23. Sea Island Golf Club (Seaside)",
+        "descripton": "St. Simons Island, Ga. -- $225-$295<br> seaisland.com",
         "Lat": 31.156408,
         "Long": -81.399765,
         "marker-color": "#007f00"
@@ -969,6 +992,7 @@
         "Class": "Golf",
         "Rank": "24",
         "Name": "24. The Homestead (Cascades)",
+        "descripton": "Hot Springs, Va. -- $195-$225<br> thehomestead.com (http://www.thehomestead.com/)",
         "Lat": 38.003112,
         "Long": -79.824708,
         "marker-color": "#007f00"
@@ -987,6 +1011,7 @@
         "Class": "Golf",
         "Rank": "25",
         "Name": "25. Torrey Pines Golf Course (South)",
+        "descripton": "La Jolla, Calif. -- $110-$282<br> torreypinesgolfcourse.com (http://www.torreypinesgolfcourse.com/_tpgallery/index.html)",
         "Lat": 32.891948,
         "Long": -117.248111,
         "marker-color": "#007f00"
@@ -1005,6 +1030,7 @@
         "Class": "Golf",
         "Rank": "26",
         "Name": "26. Fallen Oak at Beau Rivage Resort",
+        "descripton": "Biloxi, Miss. -- $200<br> fallenoak.com (http://fallenoak.com/layout9.asp?id=25&page=2552)",
         "Lat": 30.644927,
         "Long": -88.904285,
         "marker-color": "#007f00"
@@ -1023,6 +1049,7 @@
         "Class": "Golf",
         "Rank": "27",
         "Name": "27. Caledonia Golf and Fish Club",
+        "descripton": "Pawleys Island, S.C. -- $110-$200<br> fishclub.com (http://www.fishclub.com/)",
         "Lat": 33.451513,
         "Long": -79.153104,
         "marker-color": "#007f00"
@@ -1041,6 +1068,7 @@
         "Class": "Golf",
         "Rank": "28",
         "Name": "28. Arcadia Bluffs Golf Club",
+        "descripton": "Arcadia, Mich. -- $75-$180<br> arcadiabluffs.com (http://arcadiabluffs.com/)",
         "Lat": 44.458351,
         "Long": -86.244049,
         "marker-color": "#007f00"
@@ -1059,6 +1087,7 @@
         "Class": "Golf",
         "Rank": "29",
         "Name": "29. Erin Hills Golf Course",
+        "descripton": "Erin, Wisc. -- $200<br> erinhills.com (http://erinhills.com/)",
         "Lat": 43.247797,
         "Long": -88.399086,
         "marker-color": "#007f00"
@@ -1077,6 +1106,7 @@
         "Class": "Golf",
         "Rank": "30",
         "Name": "30. Trump National Golf Club Los Angeles",
+        "descripton": "Rancho Palos Verdes, Calif. -- $160-$275<br> trumpnationallosangeles.com (http://www.trumpnationallosangeles.com/)",
         "Lat": 33.726463,
         "Long": -118.340886,
         "marker-color": "#007f00"
@@ -1095,6 +1125,7 @@
         "Class": "Golf",
         "Rank": "31",
         "Name": "31. Paa-Ko Ridge Golf Club",
+        "descripton": "Sandia Park, N.M. -- $59-$114<br> paakoridge.com (http://paakoridge.com/)",
         "Lat": 35.207144,
         "Long": -106.320963,
         "marker-color": "#007f00"
@@ -1113,6 +1144,7 @@
         "Class": "Golf",
         "Rank": "32",
         "Name": "32. Dancing Rabbit (Azaleas)",
+        "descripton": "Choctaw, Miss. -- $75-$130<br> dancingrabbitgolf.com (http://www.dancingrabbitgolf.com/)",
         "Lat": 32.756783,
         "Long": -88.970375,
         "marker-color": "#007f00"
@@ -1131,6 +1163,7 @@
         "Class": "Golf",
         "Rank": "33",
         "Name": "33. Forest Dunes Golf Club",
+        "descripton": "Roscommon, Mich. -- $59-$149<br> forestdunesgolf.com (http://forestdunesgolf.com/)",
         "Lat": 44.581115,
         "Long": -84.534259,
         "marker-color": "#007f00"
@@ -1149,6 +1182,7 @@
         "Class": "Golf",
         "Rank": "34",
         "Name": "34. Red Sky Ranch Golf Club (Norman)",
+        "descripton": "Wolcott, Colo. -- $205-$260<br> redskygolfclub.com (http://www.redskygolfclub.com/)",
         "Lat": 39.686516,
         "Long": -106.698618,
         "marker-color": "#007f00"
@@ -1167,6 +1201,7 @@
         "Class": "Golf",
         "Rank": "35",
         "Name": "35. The Golf Club at Cuscowilla",
+        "descripton": "Eatonton, Ga. -- $120-$175<br> cuscowilla.com (http://www.cuscowilla.com/)",
         "Lat": 33.412242,
         "Long": -83.254223,
         "marker-color": "#007f00"
@@ -1185,6 +1220,7 @@
         "Class": "Golf",
         "Rank": "36",
         "Name": "36. The Highland Course at Primland Resort",
+        "descripton": "Meadows of Dan, Va. -- $125-$200<br> primland.com (http://primland.com/)",
         "Lat": 36.631165,
         "Long": -80.408163,
         "marker-color": "#007f00"
@@ -1203,6 +1239,7 @@
         "Class": "Golf",
         "Rank": "37",
         "Name": "37. We-Ko-Pa Golf Club (Cholla)",
+        "descripton": "Fort McDowell, Ariz. -- $75-$185<br> wekopa.com (http://wekopa.com/)",
         "Lat": 33.583449,
         "Long": -111.692419,
         "marker-color": "#007f00"
@@ -1221,6 +1258,7 @@
         "Class": "Golf",
         "Rank": "38",
         "Name": "38. Pronghorn Golf Club & Resort (Nicklaus)",
+        "descripton": "Bend, Ore. -- $92-$199<br> pronghornclub.com (http://www.pronghornclub.com/index.php)",
         "Lat": 44.185466,
         "Long": -121.178255,
         "marker-color": "#007f00"
@@ -1239,6 +1277,7 @@
         "Class": "Golf",
         "Rank": "39",
         "Name": "39. Taconic Golf Club",
+        "descripton": "Williamstown, Mass. -- $145<br> taconicgolf.com (http://www.taconicgolf.com/home/)",
         "Lat": 42.704799,
         "Long": -73.203321,
         "marker-color": "#007f00"
@@ -1257,6 +1296,7 @@
         "Class": "Golf",
         "Rank": "40",
         "Name": "40. We-Ko-Pa Golf Club (Saguaro)",
+        "descripton": "Fort McDowell, Ariz. -- $75-$185<br> wekopa.com (http://wekopa.com/)",
         "Lat": 33.596891,
         "Long": -111.688213,
         "marker-color": "#007f00"
@@ -1275,6 +1315,7 @@
         "Class": "Golf",
         "Rank": "41",
         "Name": "41. Bulle Rock",
+        "descripton": "Havre de Grace, Md. -- $79-$130<br> bullerock.com (http://bullerock.com/)",
         "Lat": 39.542788,
         "Long": -76.131402,
         "marker-color": "#007f00"
@@ -1293,6 +1334,7 @@
         "Class": "Golf",
         "Rank": "42",
         "Name": "42. The Links at Spanish Bay",
+        "descripton": "Pebble Beach, Calif. -- $260-$295<br> pebblebeach.com (http://www.pebblebeach.com/)",
         "Lat": 36.613357,
         "Long": -121.94129,
         "marker-color": "#007f00"
@@ -1311,6 +1353,7 @@
         "Class": "Golf",
         "Rank": "43",
         "Name": "43. Reynolds Plantation (Great Waters)",
+        "descripton": "Greensboro, Ga. -- $159-$245<br> reynoldsplantation.com (http://www.reynoldsplantation.com/)",
         "Lat": 33.427358,
         "Long": -83.217745,
         "marker-color": "#007f00"
@@ -1329,6 +1372,7 @@
         "Class": "Golf",
         "Rank": "44",
         "Name": "44. Black Mesa Golf Club",
+        "descripton": "La Mesilla, N.M. -- $62-$87<br> blackmesagolfclub.com (http://www.blackmesagolfclub.com/)",
         "Lat": 35.96255,
         "Long": -106.049352,
         "marker-color": "#007f00"
@@ -1347,6 +1391,7 @@
         "Class": "Golf",
         "Rank": "45",
         "Name": "45. Crosswater at Sunriver Resort",
+        "descripton": "Sunriver, Ore. -- $98-$185<br> crosswater.com (http://www.crosswater.com/)",
         "Lat": 43.857833,
         "Long": -121.451068,
         "marker-color": "#007f00"
@@ -1365,6 +1410,7 @@
         "Class": "Golf",
         "Rank": "46",
         "Name": "46. The Challenge at Manele",
+        "descripton": "Lanai City, Lanai, Hawaii -- $210-$225<br> golfonlanai.com (http://golfonlanai.com/)",
         "Lat": 20.741847,
         "Long": -156.901116,
         "marker-color": "#007f00"
@@ -1383,6 +1429,7 @@
         "Class": "Golf",
         "Rank": "47",
         "Name": "47. Dunes Golf & Beach Club",
+        "descripton": "Myrtle Beach, S.C. -- $110-$200<br> thedunesclub.net (http://www.thedunesclub.net/)",
         "Lat": 33.759883,
         "Long": -78.79725,
         "marker-color": "#007f00"
@@ -1401,6 +1448,7 @@
         "Class": "Golf",
         "Rank": "48",
         "Name": "48. Arnold Palmer’s Bay Hill Club (Champ.)",
+        "descripton": "Orlando, Fla. -- $100-$300<br> bayhill.com (http://www.bayhill.com/Home-1.html)",
         "Lat": 28.464428,
         "Long": -81.51083,
         "marker-color": "#007f00"
@@ -1419,6 +1467,7 @@
         "Class": "Golf",
         "Rank": "49",
         "Name": "49. Bay Harbor Golf Club (Links/Quarry)",
+        "descripton": "Bay Harbor, Mich. -- $99-$159<br> bayharborgolf.com (http://bayharborgolf.com/)",
         "Lat": 45.362519,
         "Long": -85.065079,
         "marker-color": "#007f00"
@@ -1437,6 +1486,7 @@
         "Class": "Golf",
         "Rank": "50",
         "Name": "50. Pine Needles Lodge and Golf Club",
+        "descripton": "Southern Pines, N.C. -- $105-$235<br> pineneedles-midpines.com (http://www.pineneedles-midpines.com/)",
         "Lat": 35.198588,
         "Long": -79.390941,
         "marker-color": "#007f00"
@@ -1455,6 +1505,7 @@
         "Class": "Golf",
         "Rank": "51",
         "Name": "51. May River Golf Club at Palmetto Bluff",
+        "descripton": "Bluffton, S.C. -- $175-$260<br> palmettobluffresort.com (http://palmettobluffresort.com/)",
         "Lat": 32.210768,
         "Long": -80.890961,
         "marker-color": "#007f00"
@@ -1473,6 +1524,7 @@
         "Class": "Golf",
         "Rank": "52",
         "Name": "52. Troon North Golf Club (Monument)",
+        "descripton": "Scottsdale, Ariz. -- $85-$340<br> troonnorthgolf.com (http://www.troonnorthgolf.com/index.php)",
         "Lat": 33.745468,
         "Long": -111.875839,
         "marker-color": "#007f00"
@@ -1491,6 +1543,7 @@
         "Class": "Golf",
         "Rank": "53",
         "Name": "53. PGA West (TPC Stadium)",
+        "descripton": "La Quinta, Calif. -- $69-$225<br>pgawest.com (http://www.pgawest.com/Club/Scripts/Home/home.asp)",
         "Lat": 33.651905,
         "Long": -116.26344,
         "marker-color": "#007f00"
@@ -1509,6 +1562,7 @@
         "Class": "Golf",
         "Rank": "54",
         "Name": "54. The Quarry at Giants Ridge",
+        "descripton": "Biwabik, Minn. -- $62-$89<br> giantsridge.com (http://www.giantsridge.com/)",
         "Lat": 47.581997,
         "Long": -92.306957,
         "marker-color": "#007f00"
@@ -1527,6 +1581,7 @@
         "Class": "Golf",
         "Rank": "55",
         "Name": "55. Longaberger",
+        "descripton": "Nashport, Ohio -- $59-$149<br> longabergergolfclub.com",
         "Lat": 40.08848,
         "Long": -82.23685,
         "marker-color": "#007f00"
@@ -1545,6 +1600,7 @@
         "Class": "Golf",
         "Rank": "56",
         "Name": "56. Pumpkin Ridge Golf Club (Ghost Creek)",
+        "descripton": "North Plains, Ore. -- $90-$150<br> pumpkinridge.com",
         "Lat": 45.614338,
         "Long": -123.003831,
         "marker-color": "#007f00"
@@ -1563,6 +1619,7 @@
         "Class": "Golf",
         "Rank": "57",
         "Name": "57. The Harvester Golf Club",
+        "descripton": "Rhodes, Iowa -- $79-$139<br> harvestergolf.com (http://harvestergolf.com/)",
         "Lat": 41.872948,
         "Long": -93.209639,
         "marker-color": "#007f00"
@@ -1581,6 +1638,7 @@
         "Class": "Golf",
         "Rank": "58",
         "Name": "58. Cascata",
+        "descripton": "Boulder City, Nev. -- $250-$425<br> golfcascata.com (http://www2.cybergolf.com/sites/courses/layout9.asp?id=1050&page=61753)",
         "Lat": 35.974516,
         "Long": -114.89223,
         "marker-color": "#007f00"
@@ -1599,6 +1657,7 @@
         "Class": "Golf",
         "Rank": "59",
         "Name": "59. Golden Horseshoe Golf Club (Gold)",
+        "descripton": "Williamsburg, Va. -- $69-$169<br> colonialwilliamsburg.com (http://colonialwilliamsburg.com/)",
         "Lat": 37.267069,
         "Long": -76.697053,
         "marker-color": "#007f00"
@@ -1617,6 +1676,7 @@
         "Class": "Golf",
         "Rank": "60",
         "Name": "60. Atunyote at Turning Stone Resort",
+        "descripton": "Verona, N.Y. -- $200-$225<br> turningstone.com (http://turningstone.com/golf/)",
         "Lat": 43.095468,
         "Long": -75.538387,
         "marker-color": "#007f00"
@@ -1635,6 +1695,7 @@
         "Class": "Golf",
         "Rank": "61",
         "Name": "61. Shenandoah at Turning Stone Resort",
+        "descripton": "Verona, N.Y. -- $95-$150<br> turningstone.com (http://turningstone.com/golf/)",
         "Lat": 43.121535,
         "Long": -75.577183,
         "marker-color": "#007f00"
@@ -1653,6 +1714,7 @@
         "Class": "Golf",
         "Rank": "62",
         "Name": "62. Reynolds Plantation (Oconee)",
+        "descripton": "Greensboro, Ga. -- $149-$245<br> reynoldsplantation.com (http://www.reynoldsplantation.com/)",
         "Lat": 33.471437,
         "Long": -83.270488,
         "marker-color": "#007f00"
@@ -1671,6 +1733,7 @@
         "Class": "Golf",
         "Rank": "63",
         "Name": "63. Linville Golf Club",
+        "descripton": "Linville, N.C. -- $120<br> eseeola.com (http://www.eseeola.com/)",
         "Lat": 36.064694,
         "Long": -81.868701,
         "marker-color": "#007f00"
@@ -1689,6 +1752,7 @@
         "Class": "Golf",
         "Rank": "64",
         "Name": "64. CordeValle",
+        "descripton": "San Martin, Calif. -- $95-$395<br> cordevalle.com (http://www.rosewoodhotels.com/en/cordevalle/)",
         "Lat": 37.06754,
         "Long": -121.636248,
         "marker-color": "#007f00"
@@ -1707,6 +1771,7 @@
         "Class": "Golf",
         "Rank": "65",
         "Name": "65. Wolf Creek Golf Club",
+        "descripton": "Mesquite, Nev. -- $125-$195<br> golfwolfcreek.com (http://www.golfwolfcreek.com/sites/courses/layout9.asp?id=863&page=48604)",
         "Lat": 36.83639,
         "Long": -114.060702,
         "marker-color": "#007f00"
@@ -1725,6 +1790,7 @@
         "Class": "Golf",
         "Rank": "66",
         "Name": "66. Wynn Las Vegas",
+        "descripton": "Las Vegas, Nev. -- $350-$500<br> wynnlasvegas.com (http://www.wynnlasvegas.com/)",
         "Lat": 36.125709,
         "Long": -115.159507,
         "marker-color": "#007f00"
@@ -1743,6 +1809,7 @@
         "Class": "Golf",
         "Rank": "67",
         "Name": "67. Barton Creek Resort (Fazio Canyons)",
+        "descripton": "Austin, Texas -- $150-$235<br> bartoncreek.com (http://www.bartoncreek.com/golf.aspx)",
         "Lat": 30.287495,
         "Long": -97.855117,
         "marker-color": "#007f00"
@@ -1761,6 +1828,7 @@
         "Class": "Golf",
         "Rank": "68",
         "Name": "68. Karsten Creek Golf Club",
+        "descripton": "Stillwater, Okla. -- $300<br> karstencreek.net (http://www.karstencreek.com/wPAGES/wHome.htm)",
         "Lat": 36.102168,
         "Long": -97.187333,
         "marker-color": "#007f00"
@@ -1779,6 +1847,7 @@
         "Class": "Golf",
         "Rank": "69",
         "Name": "69. The Greenbrier (Greenbrier)",
+        "descripton": "White Sulphur Springs, W.Va. -- $150-$285<br> greenbrier.com (http://www.greenbrier.com/)",
         "Lat": 37.790659,
         "Long": -80.315723,
         "marker-color": "#007f00"
@@ -1797,6 +1866,7 @@
         "Class": "Golf",
         "Rank": "70",
         "Name": "70. The Broadmoor (East)",
+        "descripton": "Colorado Springs, Colo. -- $155-$245<br> thebroadmoor.com (http://www.broadmoor.com/)",
         "Lat": 38.78597,
         "Long": -104.850683,
         "marker-color": "#007f00"
@@ -1815,6 +1885,7 @@
         "Class": "Golf",
         "Rank": "71",
         "Name": "71. French Lick Resort (Pete Dye)",
+        "descripton": "French Lick, Ind. -- $350-$380<br> frenchlick.com (http://frenchlick.com/)",
         "Lat": 38.556539,
         "Long": -86.619816,
         "marker-color": "#007f00"
@@ -1833,6 +1904,7 @@
         "Class": "Golf",
         "Rank": "72",
         "Name": "72. The Glen Club",
+        "descripton": "Glenview, Ill. -- $100-$203<br> theglenclub.com (http://theglenclub.com/layout10.asp?id=180&page=3746)",
         "Lat": 42.088589,
         "Long": -87.828194,
         "marker-color": "#007f00"
@@ -1851,6 +1923,7 @@
         "Class": "Golf",
         "Rank": "73",
         "Name": "73. Wild Horse Golf Club",
+        "descripton": "Gothenburg, Neb. -- $37-$57<br> playwildhorse.com (http://www.playwildhorse.com/)",
         "Lat": 40.956502,
         "Long": -100.196278,
         "marker-color": "#007f00"
@@ -1869,6 +1942,7 @@
         "Class": "Golf",
         "Rank": "74",
         "Name": "74. Whistling Straits Golf Club (Irish)",
+        "descripton": "Haven, Wis. -- $185-$215<br> americanclubresort.com (http://www.americanclubresort.com/index.html)",
         "Lat": 43.860432,
         "Long": -87.736731,
         "marker-color": "#007f00"
@@ -1887,6 +1961,7 @@
         "Class": "Golf",
         "Rank": "75",
         "Name": "75. Hammock Beach Resort (Ocean)",
+        "descripton": "Palm Coast, Fla. -- $115-$169<br> hammockbeach.com (http://hammockbeach.com/)",
         "Lat": 29.608685,
         "Long": -81.187592,
         "marker-color": "#007f00"
@@ -1905,6 +1980,7 @@
         "Class": "Golf",
         "Rank": "76",
         "Name": "76. Innisbrook Resort (Copperhead)",
+        "descripton": "Palm Harbor, Fla. -- $140-$245<br> innisbrookgolfresort.com (http://www.innisbrookgolfresort.com/)",
         "Lat": 28.112906,
         "Long": -82.76031,
         "marker-color": "#007f00"
@@ -1923,6 +1999,7 @@
         "Class": "Golf",
         "Rank": "77",
         "Name": "77. La Quinta Resort (Mountain)",
+        "descripton": "La Quinta, Calif. -- $69-$195<br> laquintaresort.com (http://laquintaresort.com/)",
         "Lat": 33.682925,
         "Long": -116.292086,
         "marker-color": "#007f00"
@@ -1941,6 +2018,7 @@
         "Class": "Golf",
         "Rank": "78",
         "Name": "78. The Prairie Club (Dunes)",
+        "descripton": "Valentine, Neb. -- $125-$185<br> theprairieclub.com (http://www.theprairieclub.com/)",
         "Lat": 42.663756,
         "Long": -100.876808,
         "marker-color": "#007f00"
@@ -1959,6 +2037,7 @@
         "Class": "Golf",
         "Rank": "79",
         "Name": "79. Lakota Canyon Ranch & Golf Club",
+        "descripton": "New Castle, Colo. -- $89<br> lakotacanyonranch.com (http://www.lakotacanyonranch.com/contact/)",
         "Lat": 39.586574,
         "Long": -107.517807,
         "marker-color": "#007f00"
@@ -1977,6 +2056,7 @@
         "Class": "Golf",
         "Rank": "80",
         "Name": "80. Atlantic City Country Club",
+        "descripton": "Northfield, N.J. -- $65-$225<br> accountryclub.com (http://www.caesars.com/golf/atlantic-city-country-club/)",
         "Lat": 39.36745,
         "Long": -74.544382,
         "marker-color": "#007f00"
@@ -1995,6 +2075,7 @@
         "Class": "Golf",
         "Rank": "81",
         "Name": "81. Hawktree Golf Club",
+        "descripton": "Bismarck, N.D. -- $73-$94<br> hawktree.com (http://www.hawktree.com/homepage/start_page.php)",
         "Lat": 46.89683,
         "Long": -100.845008,
         "marker-color": "#007f00"
@@ -2013,6 +2094,7 @@
         "Class": "Golf",
         "Rank": "82",
         "Name": "82. The Links at Lighthouse Sound",
+        "descripton": "Bishopville, Md. -- $55-$179<br> lighthousesound.com (http://lighthousesound.com/)",
         "Lat": 38.409818,
         "Long": -75.107818,
         "marker-color": "#007f00"
@@ -2031,6 +2113,7 @@
         "Class": "Golf",
         "Rank": "83",
         "Name": "83. Tullymore Golf Resort",
+        "descripton": "Stanwood, Mich. -- $75-$160<br> tullymoregolf.com (http://www.tullymoregolf.com/)",
         "Lat": 43.564223,
         "Long": -85.321755,
         "marker-color": "#007f00"
@@ -2049,6 +2132,7 @@
         "Class": "Golf",
         "Rank": "84",
         "Name": "84. Marquette Golf Club (Greywalls)",
+        "descripton": "Marquette, Mich. -- $75-$130<br> marquettegolfclub.com (http://marquettegolfclub.com/)",
         "Lat": 46.527217,
         "Long": -87.433491,
         "marker-color": "#007f00"
@@ -2067,6 +2151,7 @@
         "Class": "Golf",
         "Rank": "85",
         "Name": "85. Lake of Isles (North)",
+        "descripton": "North Stonington, Conn. -- $99-$199<br> lakeofisles.com (http://www.lakeofisles.com/index.php)",
         "Lat": 41.490063,
         "Long": -71.944227,
         "marker-color": "#007f00"
@@ -2085,6 +2170,7 @@
         "Class": "Golf",
         "Rank": "86",
         "Name": "86. Barefoot Resort (Love)",
+        "descripton": "North Myrtle Beach, S.C. -- $100-$185<br> barefootgolf.com (http://www.barefootgolf.com/)",
         "Lat": 33.806663,
         "Long": -78.756244,
         "marker-color": "#007f00"
@@ -2103,6 +2189,7 @@
         "Class": "Golf",
         "Rank": "87",
         "Name": "87. Southern Dunes Golf Club",
+        "descripton": "Maricopa, Ariz. -- $59-$119<br> golfsoutherndunes.com (http://www.golfsoutherndunes.com/index.php)",
         "Lat": 33.084135,
         "Long": -112.090073,
         "marker-color": "#007f00"
@@ -2121,6 +2208,7 @@
         "Class": "Golf",
         "Rank": "88",
         "Name": "88. Branson Creek Golf Club",
+        "descripton": "Hollister, Mo. -- $48-$99<br> bransoncreekgolf.com (http://www.bransoncreekgolf.com/)",
         "Lat": 36.574147,
         "Long": -93.194919,
         "marker-color": "#007f00"
@@ -2139,6 +2227,7 @@
         "Class": "Golf",
         "Rank": "89",
         "Name": "89. Sunday River Golf Club",
+        "descripton": "Newry, Me. -- $65-$120<br> sundayriver.com (http://www.sundayriver.com/summer.asp)",
         "Lat": 44.487934,
         "Long": -70.888478,
         "marker-color": "#007f00"
@@ -2157,6 +2246,7 @@
         "Class": "Golf",
         "Rank": "90",
         "Name": "90. Circling Raven Golf Club",
+        "descripton": "Worley, Idaho -- $65-$95<br> cdacasino.com (http://www.cdacasino.com/)",
         "Lat": 47.42829,
         "Long": -116.969419,
         "marker-color": "#007f00"
@@ -2175,6 +2265,7 @@
         "Class": "Golf",
         "Rank": "91",
         "Name": "91. Rustic Canyon Golf Course",
+        "descripton": "Moorpark, Calif. -- $34-$79<br> rusticcanyongolfcourse.com (http://www.rusticcanyongolfcourse.com/)",
         "Lat": 34.305487,
         "Long": -118.861974,
         "marker-color": "#007f00"
@@ -2193,6 +2284,7 @@
         "Class": "Golf",
         "Rank": "92",
         "Name": "92. Coeur d'Alene Resort",
+        "descripton": "Coeur d'Alene, Idaho -- $150-$220<br> cdaresort.com (http://www.cdaresort.com/)",
         "Lat": 47.664116,
         "Long": -116.752911,
         "marker-color": "#007f00"
@@ -2211,6 +2303,7 @@
         "Class": "Golf",
         "Rank": "93",
         "Name": "93. The Boulders Club (South)",
+        "descripton": "Carefree, Ariz. -- $80-$220<br> theboulders.com (http://www.theboulders.com/)",
         "Lat": 33.803739,
         "Long": -111.918883,
         "marker-color": "#007f00"
@@ -2229,6 +2322,7 @@
         "Class": "Golf",
         "Rank": "94",
         "Name": "94. The Golf Club at Redlands Mesa",
+        "descripton": "Grand Junction, Colo. -- $43-$105<br> redlandsmesa.com (http://www.redlandsmesa.com/Club/Scripts/Home/home.asp)",
         "Lat": 39.054368,
         "Long": -108.620549,
         "marker-color": "#007f00"
@@ -2247,6 +2341,7 @@
         "Class": "Golf",
         "Rank": "95",
         "Name": "95. Tobacco Road Golf Club",
+        "descripton": "Sanford, N.C. -- $49-$134<br> tobaccoroadgolf.com (http://tobaccoroadgolf.com/)",
         "Lat": 35.397411,
         "Long": -79.212821,
         "marker-color": "#007f00"
@@ -2265,6 +2360,7 @@
         "Class": "Golf",
         "Rank": "96",
         "Name": "96. Dormie Club",
+        "descripton": "West End, N.C. -- $115-$195<br> dormieclub.net (http://dormieclub.net/)",
         "Lat": 35.259777,
         "Long": -79.504559,
         "marker-color": "#007f00"
@@ -2283,6 +2379,7 @@
         "Class": "Golf",
         "Rank": "97",
         "Name": "97. Pinehurst Resort (No. 8)",
+        "descripton": "Pinehurst, N.C. -- $150-$230<br> pinehurst.com (http://www.pinehurst.com/)",
         "Lat": 35.181806,
         "Long": -79.473553,
         "marker-color": "#007f00"
@@ -2301,6 +2398,7 @@
         "Class": "Golf",
         "Rank": "98",
         "Name": "98. The General at Eagle Ridge Resort",
+        "descripton": "Galena, Ill. -- $80-$155<br> eagleridge.com (http://www.eagleridge.com/)",
         "Lat": 42.374033,
         "Long": -90.327551,
         "marker-color": "#007f00"
@@ -2319,6 +2417,7 @@
         "Class": "Golf",
         "Rank": "99",
         "Name": "99. Grayhawk Golf Club (Talon)",
+        "descripton": "Scottsdale, Ariz. -- $60-$230<br> grayhawkgolf.com (http://grayhawkgolf.com/)",
         "Lat": 33.679408,
         "Long": -111.898885,
         "marker-color": "#007f00"
@@ -2337,6 +2436,7 @@
         "Class": "Golf",
         "Rank": "100",
         "Name": "100. Doral Resort (TPC Blue Monster)",
+        "descripton": "Miami, Fla. -- $210-$325<br> doralresort.com (http://www.doralresort.com/)",
         "Lat": 25.818127,
         "Long": -80.342159,
         "marker-color": "#007f00"

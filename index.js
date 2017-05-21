@@ -39,6 +39,7 @@ function courseToGEOJson (course) {
       Class: "Golf",
       Rank: course.name.split('.')[0],
       Name: course.name,
+      descripton: course.description,
       Lat: coords[1],
       Long: coords[0],
       "marker-color": "#007f00"

@@ -48,6 +48,12 @@ function courseToGEOJson (course) {
 function writeResult(ballparks, courses) {
   var all = ballparks.concat(courses);
 
-  fs.writeFileSync('mashup.geojson', JSON.stringify(all, null, 2), 'utf8')
+  var result = {
+    name: "mashup",
+    type: "FeatureCollection",
+    feature: all,
+  }
+
+  fs.writeFileSync('mashup.geojson', JSON.stringify(result, null, 2), 'utf8')
 }
 

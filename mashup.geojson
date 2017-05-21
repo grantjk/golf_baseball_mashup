@@ -2441,6 +2441,937 @@
         "Long": -80.342159,
         "marker-color": "#007f00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.629167,
+          35.069722
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Albuquerque Isotopes",
+        "Ballpark": "Isotopes Park",
+        "Lat": "35.069722",
+        "Long": "-106.629167",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.710311,
+          38.894172
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Colorado Springs Sky Sox",
+        "Ballpark": "Security Service Field",
+        "Lat": "38.894172",
+        "Long": "-104.710311",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.492526,
+          31.759136
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "El Paso Chihuahuas",
+        "Ballpark": "New El Paso Ballpark",
+        "Lat": "31.759136",
+        "Long": "-106.492526",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7905,
+          36.7321
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Fresno Grizzlies",
+        "Ballpark": "Chukchansi Park",
+        "Lat": "36.7321",
+        "Long": "-119.7905",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.615833,
+          41.580278
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Iowa Cubs",
+        "Ballpark": "Principal Park",
+        "Lat": "41.580278",
+        "Long": "-93.615833",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.129972,
+          36.179667
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Las Vegas 51s",
+        "Ballpark": "Cashman Field",
+        "Lat": "36.179667",
+        "Long": "-115.129972",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.04917,
+          35.143056
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Memphis Redbirds",
+        "Ballpark": "AutoZone Park",
+        "Lat": "35.143056",
+        "Long": "-90.049167",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.773431,
+          36.143142
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Nashville Sounds",
+        "Ballpark": "Herschel Greer Stadium",
+        "Lat": "36.143142",
+        "Long": "-86.773431",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.199742,
+          29.975442
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "New Orleans Zephyrs",
+        "Ballpark": "Zephyr Field",
+        "Lat": "29.975442",
+        "Long": "-90.199742",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.50805,
+          35.464961
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Oklahoma City Dodgers",
+        "Ballpark": "Chickasaw Bricktown Ballpark",
+        "Lat": "35.464961",
+        "Long": "-97.50805",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.107,
+          41.151
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Omaha Storm Chasers",
+        "Ballpark": "Werner Park",
+        "Lat": "41.151",
+        "Long": "-96.107",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.80863,
+          39.528131
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Reno Aces",
+        "Ballpark": "Aces Ballpark",
+        "Lat": "39.528131",
+        "Long": "-119.808633",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6305,
+          30.5273
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Round Rock Express",
+        "Ballpark": "Dell Diamond",
+        "Lat": "30.5273",
+        "Long": "-97.6305",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5138,
+          38.580372
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Sacramento River Cats",
+        "Ballpark": "Raley Field",
+        "Lat": "38.580372",
+        "Long": "-121.5138",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.892778,
+          40.740556
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Salt Lake Bees",
+        "Ballpark": "Smith's Ballpark",
+        "Lat": "40.740556",
+        "Long": "-111.892778",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.497544,
+          47.238033
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Tacoma Rainiers",
+        "Ballpark": "Cheney Stadium",
+        "Lat": "47.238033",
+        "Long": "-122.497544",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.873794,
+          42.880345
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Buffalo Bisons",
+        "Ballpark": "Coca-Cola Field",
+        "Lat": "42.880345",
+        "Long": "-78.873794",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4525,
+          40.626111
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Lehigh Valley Iron Pigs",
+        "Ballpark": "Coca-Cola Park",
+        "Lat": "40.626111",
+        "Long": "-75.4525",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.370039,
+          41.873164
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Pawtucket Red Sox",
+        "Ballpark": "McCoy Stadium",
+        "Lat": "41.873164",
+        "Long": "-71.370039",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.619794,
+          43.158267
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Rochester Red Wings",
+        "Ballpark": "Frontier Field",
+        "Lat": "43.158267",
+        "Long": "-77.619794",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.683967,
+          41.360406
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Scranton/Wilks-Barre RailRaiders",
+        "Ballpark": "PNC Field",
+        "Lat": "41.360406",
+        "Long": "-75.683967",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.165358,
+          43.079078
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Syracuse Chiefs",
+        "Ballpark": "NBT Bank Stadium",
+        "Lat": "43.079078",
+        "Long": "-76.165358",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.849011,
+          35.227988
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Charlotte Knights",
+        "Ballpark": "BB&T Ballpark",
+        "Lat": "35.227988",
+        "Long": "-80.849011",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.904186,
+          35.991689
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Durham Bulls",
+        "Ballpark": "Durham Bulls Athletic Park",
+        "Lat": "35.991689",
+        "Long": "-78.904186",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.992367,
+          34.041494
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Gwinnett Braves",
+        "Ballpark": "Coolray Field",
+        "Lat": "34.041494",
+        "Long": "-83.992367",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.278869,
+          36.842789
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Norfolk Tides",
+        "Ballpark": "Harbor Park",
+        "Lat": "36.842789",
+        "Long": "-76.278869",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.010743,
+          39.968619
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Columbus Clippers",
+        "Ballpark": "Huntington Park",
+        "Lat": "39.968619",
+        "Long": "-83.010743",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.168333,
+          39.765
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Indianapolis Indians",
+        "Ballpark": "Victory Field",
+        "Lat": "39.765",
+        "Long": "-86.168333",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74465,
+          38.256186
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Louisville Bats",
+        "Ballpark": "Louisville Slugger Field",
+        "Lat": "38.256186",
+        "Long": "-85.744653",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.538986,
+          41.648314
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Toledo Mud Hens",
+        "Ballpark": "Fifth Third Field",
+        "Lat": "41.648314",
+        "Long": "-83.538986",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.31575,
+          25.718517
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Sultanes de Monterrey",
+        "Ballpark": "Estadio de Beisbol Monterrey",
+        "Lat": "25.718517",
+        "Long": "-100.31575",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.312292,
+          26.078825
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Broncos de Reynosa",
+        "Ballpark": "Estadio Adolfo López Mateos",
+        "Lat": "26.078825",
+        "Long": "-98.312292",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.978806,
+          25.433653
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Saraperos de Saltillo",
+        "Ballpark": "Estadio de Béisbol Francisco I. Madero",
+        "Lat": "25.433653",
+        "Long": "-100.978806",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.273542,
+          21.879776
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Rieleros de Aguascalientes",
+        "Ballpark": "Parque Alberto Romo Chávez",
+        "Lat": "21.879776",
+        "Long": "-102.273542",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.429178,
+          25.539575
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Vaqueros Laguna",
+        "Ballpark": "Estadio Revolución",
+        "Lat": "25.539575",
+        "Long": "-103.429178",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.095944,
+          19.404889
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Diablos Rojos del México",
+        "Ballpark": "Foro Sol",
+        "Lat": "19.404889",
+        "Long": "-99.095944",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.444117,
+          26.906914
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Acereros de Monclova",
+        "Ballpark": "Estadio De Béisbol Monclova",
+        "Lat": "26.906914",
+        "Long": "-101.444117",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.31575,
+          25.718517
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Sultanes de Monterrey",
+        "Ballpark": "Estadio de Beisbol Monterrey",
+        "Lat": "25.718517",
+        "Long": "-100.31575",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.91748,
+          32.483212
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Toros de Tijuana",
+        "Ballpark": "Estadio Gasmart",
+        "Lat": "32.483212",
+        "Long": "-116.91748",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.312292,
+          26.078825
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Broncos de Reynosa",
+        "Ballpark": "Estadio Adolfo López Mateos",
+        "Lat": "26.078825",
+        "Long": "-98.312292",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.978806,
+          25.433653
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Saraperos de Saltillo",
+        "Ballpark": "Estadio de Béisbol Francisco I. Madero",
+        "Lat": "25.433653",
+        "Long": "-100.978806",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.516906,
+          19.845797
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Piratas de Campeche",
+        "Ballpark": "Estadio Nelson Barrera",
+        "Lat": "19.845797",
+        "Long": "-90.516906",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.81932,
+          18.647458
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Delfines de Ciudad del Carmen",
+        "Ballpark": "Estadio Resurgimiento",
+        "Lat": "18.647458",
+        "Long": "-91.81932",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.165377,
+          19.075178
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Pericos de Puebla",
+        "Ballpark": "Estadio Hermanos Serdán",
+        "Lat": "19.075178",
+        "Long": "-98.165377",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.713,
+          17.07
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Guerreros de Oaxaca",
+        "Ballpark": "Eduardo Vasconcelos Stadium",
+        "Lat": "17.07",
+        "Long": "-96.713",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.836861,
+          21.152525
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Tigres de Quintana Roo",
+        "Ballpark": "Estadio de Béisbol Beto Ávila",
+        "Lat": "21.152525",
+        "Long": "-86.836861",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.944167,
+          17.976667
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Olmecas de Tabasco",
+        "Ballpark": "Estadio Centenario 27 de Febrero",
+        "Lat": "17.976667",
+        "Long": "-92.944167",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.122736,
+          19.165097
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Rojos del Águila de Veracruz",
+        "Ballpark": "Estadio Universitario Beto Avila",
+        "Lat": "19.165097",
+        "Long": "-96.122736",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.595983,
+          20.941211
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Leones de Yucatán",
+        "Ballpark": "Estadio de Béisbol Kukulkán",
+        "Lat": "20.941211",
+        "Long": "-89.595983",
+        "marker-color": "#9F0000"
+      }
     }
   ]
 }

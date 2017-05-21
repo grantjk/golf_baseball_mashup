@@ -2,21 +2,39 @@ var fs = require('fs');
 var _ = require('lodash')
 var parser = require('xml2json');
 
-var majors = readBallparks()
-var courses = readGolfCourses()
+var ballparks = readBallparks();
+var majors = filterMajors(ballparks);
+var tripleA = filterTripleA(ballparks);
+var courses = readGolfCourses();
 
 console.log("===========")
 console.log("Total Majors: " + majors.length);
+console.log("Total TripleA: " + tripleA.length);
 console.log("Total courses: " + courses.length);
 
-writeResult(majors, courses)
+tripleA = _.map(tripleA, function(park) {
+  var updated = Object.assign(park);
+  _.set(park, 'properties.marker-color', '#9F0000')
+  return updated
+})
+
+writeResult(majors, tripleA, courses)
 
 console.log('done!')
 
-function readBallparks () {
-  var ballparks = JSON.parse(fs.readFileSync('./ballparks.geojson', 'utf8')).features
+function readBallparks() {
+  return JSON.parse(fs.readFileSync('./ballparks.geojson', 'utf8')).features
+}
+
+function filterMajors(ballparks) {
   return _.filter(ballparks, function(ballpark) {
     return ballpark.properties.League === 'Major League Baseball'
+  })
+}
+
+function filterTripleA(ballparks) {
+  return _.filter(ballparks, function(ballpark) {
+    return ballpark.properties.Class === 'Triple-A'
   })
 }
 
@@ -47,8 +65,8 @@ function courseToGEOJson (course) {
   }
 }
 
-function writeResult(ballparks, courses) {
-  var all = ballparks.concat(courses);
+function writeResult(ballparks, tripleA, courses) {
+  var all = ballparks.concat(courses).concat(tripleA);
 
   var result = {
     name: "mashup",

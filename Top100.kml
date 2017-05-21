@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Top 100 Golf Courses You Can Play: 2012</name>
+    <description/>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>1. Pacific Dunes</name>
+        <description><![CDATA[Bandon, Ore. -- $75-$275<br> bandondunesgolf.com (http://www.bandondunesgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -124.395447,43.205176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2. Pebble Beach Golf Links</name>
+        <description><![CDATA[Pebble Beach, Calif. -- $495-$530<br>pebblebeach.com (http://www.pebblebeach.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -121.948639,36.567739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3. Pinehurst Resort (No. 2)</name>
+        <description><![CDATA[Pinehurst, N.C. -- $360-$420<br>pinehurst.com (http://www.pinehurst.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -79.46806,35.187979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4. Whistling Straits Golf Club (Straits)</name>
+        <description><![CDATA[Haven, Wisc. -- $360-$420<br>americanclubresort.com (http://www.americanclubresort.com/index.html)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.73613,43.853825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5. The Ocean Course at Kiawah Island Resort</name>
+        <description><![CDATA[Kiawah Island, S.C. -- $217-$343<br>kiawahresort.com (http://www.kiawahresort.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -80.001326,32.613406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6. Bethpage State Park (Black)</name>
+        <description><![CDATA[Farmingdale, N.Y. -- $78-$150<br> nysparks.com (http://nysparks.com/golf-courses/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.458366,40.746379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7. TPC Sawgrass (Players Stadium)</name>
+        <description><![CDATA[Ponte Vedra Beach, Fla. -- $245-$385<br>tpc.com/sawgrass (http://www.tpc.com/tpc-sawgrass)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -81.395001,30.197811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8. Bandon Dunes</name>
+        <description><![CDATA[Bandon, Ore. -- $75-$275<br> bandondunesgolf.com (http://www.bandondunesgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -124.38983,43.193886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9. Old Macdonald</name>
+        <description><![CDATA[Bandon, Ore. -- $75-$275<br> bandondunesgolf.com (http://www.bandondunesgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -124.398236,43.18581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10. Spyglass Hill Golf Course</name>
+        <description><![CDATA[Pebble Beach, Calif. -- $360-$395<br> pebblebeach.com (http://www.pebblebeach.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -121.956554,36.585201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11. Blackwolf Run (River)</name>
+        <description><![CDATA[Kohler, Wisc. -- $250-$280<br>americanclubresort.com (http://www.americanclubresort.com/index.html)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.777672,43.729367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12. Harbour Town Golf Links</name>
+        <description><![CDATA[Hilton Head Island, S.C. -- $139-$259<br> seapines.com (http://www.seapines.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -80.813552,32.137055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13. Pasatiempo Golf Club</name>
+        <description><![CDATA[Santa Cruz, Calif. -- $220-$250<br> pasatiempo.com (http://www.pasatiempo.com/web/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -122.024975,37.004198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14. Chambers Bay Golf Course</name>
+        <description><![CDATA[University Place, Wash. -- $99-$205<br> chambersbaygolf.com (http://chambersbaygolf.com/chambersbay.asp?id=232&page=7996)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -122.57575,47.203185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15. Bandon Trails</name>
+        <description><![CDATA[Bandon, Ore. -- $75-$275<br> bandondunesgolf.com (http://www.bandondunesgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -124.385147,43.207053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16. The Prince at Princeville</name>
+        <description><![CDATA[Princeville, Kauai, Hawaii -- $150-$240<br> princeville.com (http://www.princeville.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -159.464922,22.21204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17. Shadow Creek</name>
+        <description><![CDATA[North Las Vegas, Nev. -- $500<br> shadowcreek.com (http://www.shadowcreek.com/pages/index_main.asp)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -115.111656,36.25784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18. Kapalua Resort (Plantation)</name>
+        <description><![CDATA[Kapalua, Maui, Hawaii -- $168-$268<br> kapaluamaui.com (http://kapaluamaui.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -156.661134,21.000247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19. World Woods (Pine Barrens)</name>
+        <description><![CDATA[Brooksville, Fla. -- $40-$119<br> worldwoods.com (http://www.worldwoods.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -82.483206,28.678277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20. Troon North Golf Club (Pinnacle)</name>
+        <description><![CDATA[Scottsdale, Ariz. -- $85-$340<br> troonnorthgolf.com (http://www.troonnorthgolf.com/index.php)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -111.856356,33.746395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21. Cog Hill Golf Club (No. 4)</name>
+        <description><![CDATA[Lemont, Ill. -- $155<br>coghillgolf.com (http://coghillgolf.com/home)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.955384,41.674675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22. Mauna Kea Golf Course</name>
+        <description><![CDATA[Kamuela, Big Island, Hawaii -- $155-$250<br>princeresortshawaii.com (http://www.princeresortshawaii.com/mauna-kea-golf-course/index.php)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -155.822536,20.00037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23. Sea Island Golf Club (Seaside)</name>
+        <description><![CDATA[St. Simons Island, Ga. -- $225-$295<br> seaisland.com]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -81.399765,31.156408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24. The Homestead (Cascades)</name>
+        <description><![CDATA[Hot Springs, Va. -- $195-$225<br> thehomestead.com (http://www.thehomestead.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -79.824708,38.003112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25. Torrey Pines Golf Course (South)</name>
+        <description><![CDATA[La Jolla, Calif. -- $110-$282<br> torreypinesgolfcourse.com (http://www.torreypinesgolfcourse.com/_tpgallery/index.html)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -117.248111,32.891948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26. Fallen Oak at Beau Rivage Resort</name>
+        <description><![CDATA[Biloxi, Miss. -- $200<br> fallenoak.com (http://fallenoak.com/layout9.asp?id=25&page=2552)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.904285,30.644927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27. Caledonia Golf and Fish Club</name>
+        <description><![CDATA[Pawleys Island, S.C. -- $110-$200<br> fishclub.com (http://www.fishclub.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -79.153104,33.451513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28. Arcadia Bluffs Golf Club</name>
+        <description><![CDATA[Arcadia, Mich. -- $75-$180<br> arcadiabluffs.com (http://arcadiabluffs.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.244049,44.458351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29. Erin Hills Golf Course</name>
+        <description><![CDATA[Erin, Wisc. -- $200<br> erinhills.com (http://erinhills.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.399086,43.247797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30. Trump National Golf Club Los Angeles</name>
+        <description><![CDATA[Rancho Palos Verdes, Calif. -- $160-$275<br> trumpnationallosangeles.com (http://www.trumpnationallosangeles.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -118.340886,33.726463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31. Paa-Ko Ridge Golf Club</name>
+        <description><![CDATA[Sandia Park, N.M. -- $59-$114<br> paakoridge.com (http://paakoridge.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.320963,35.207144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>32. Dancing Rabbit (Azaleas)</name>
+        <description><![CDATA[Choctaw, Miss. -- $75-$130<br> dancingrabbitgolf.com (http://www.dancingrabbitgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.970375,32.756783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33. Forest Dunes Golf Club</name>
+        <description><![CDATA[Roscommon, Mich. -- $59-$149<br> forestdunesgolf.com (http://forestdunesgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -84.534259,44.581115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>34. Red Sky Ranch Golf Club (Norman)</name>
+        <description><![CDATA[Wolcott, Colo. -- $205-$260<br> redskygolfclub.com (http://www.redskygolfclub.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.698618,39.686516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>35. The Golf Club at Cuscowilla</name>
+        <description><![CDATA[Eatonton, Ga. -- $120-$175<br> cuscowilla.com (http://www.cuscowilla.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -83.254223,33.412242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>36. The Highland Course at Primland Resort</name>
+        <description><![CDATA[Meadows of Dan, Va. -- $125-$200<br> primland.com (http://primland.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -80.408163,36.631165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>37. We-Ko-Pa Golf Club (Cholla)</name>
+        <description><![CDATA[Fort McDowell, Ariz. -- $75-$185<br> wekopa.com (http://wekopa.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -111.692419,33.583449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[38. Pronghorn Golf Club & Resort (Nicklaus)]]></name>
+        <description><![CDATA[Bend, Ore. -- $92-$199<br> pronghornclub.com (http://www.pronghornclub.com/index.php)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -121.178255,44.185466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39. Taconic Golf Club</name>
+        <description><![CDATA[Williamstown, Mass. -- $145<br> taconicgolf.com (http://www.taconicgolf.com/home/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -73.203321,42.704799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>40. We-Ko-Pa Golf Club (Saguaro)</name>
+        <description><![CDATA[Fort McDowell, Ariz. -- $75-$185<br> wekopa.com (http://wekopa.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -111.688213,33.596891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>41. Bulle Rock</name>
+        <description><![CDATA[Havre de Grace, Md. -- $79-$130<br> bullerock.com (http://bullerock.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -76.131402,39.542788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>42. The Links at Spanish Bay</name>
+        <description><![CDATA[Pebble Beach, Calif. -- $260-$295<br> pebblebeach.com (http://www.pebblebeach.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -121.94129,36.613357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>43. Reynolds Plantation (Great Waters)</name>
+        <description><![CDATA[Greensboro, Ga. -- $159-$245<br> reynoldsplantation.com (http://www.reynoldsplantation.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -83.217745,33.427358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>44. Black Mesa Golf Club</name>
+        <description><![CDATA[La Mesilla, N.M. -- $62-$87<br> blackmesagolfclub.com (http://www.blackmesagolfclub.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -106.049352,35.96255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>45. Crosswater at Sunriver Resort</name>
+        <description><![CDATA[Sunriver, Ore. -- $98-$185<br> crosswater.com (http://www.crosswater.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -121.451068,43.857833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>46. The Challenge at Manele</name>
+        <description><![CDATA[Lanai City, Lanai, Hawaii -- $210-$225<br> golfonlanai.com (http://golfonlanai.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -156.901116,20.741847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[47. Dunes Golf & Beach Club]]></name>
+        <description><![CDATA[Myrtle Beach, S.C. -- $110-$200<br> thedunesclub.net (http://www.thedunesclub.net/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -78.79725,33.759883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>48. Arnold Palmer’s Bay Hill Club (Champ.)</name>
+        <description><![CDATA[Orlando, Fla. -- $100-$300<br> bayhill.com (http://www.bayhill.com/Home-1.html)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -81.51083,28.464428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>49. Bay Harbor Golf Club (Links/Quarry)</name>
+        <description><![CDATA[Bay Harbor, Mich. -- $99-$159<br> bayharborgolf.com (http://bayharborgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -85.065079,45.362519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>50. Pine Needles Lodge and Golf Club</name>
+        <description><![CDATA[Southern Pines, N.C. -- $105-$235<br> pineneedles-midpines.com (http://www.pineneedles-midpines.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -79.390941,35.198588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>51. May River Golf Club at Palmetto Bluff</name>
+        <description><![CDATA[Bluffton, S.C. -- $175-$260<br> palmettobluffresort.com (http://palmettobluffresort.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -80.890961,32.210768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>52. Troon North Golf Club (Monument)</name>
+        <description><![CDATA[Scottsdale, Ariz. -- $85-$340<br> troonnorthgolf.com (http://www.troonnorthgolf.com/index.php)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -111.875839,33.745468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>53. PGA West (TPC Stadium)</name>
+        <description><![CDATA[La Quinta, Calif. -- $69-$225<br>pgawest.com (http://www.pgawest.com/Club/Scripts/Home/home.asp)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -116.26344,33.651905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>54. The Quarry at Giants Ridge</name>
+        <description><![CDATA[Biwabik, Minn. -- $62-$89<br> giantsridge.com (http://www.giantsridge.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -92.306957,47.581997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>55. Longaberger</name>
+        <description><![CDATA[Nashport, Ohio -- $59-$149<br> longabergergolfclub.com]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -82.23685,40.08848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>56. Pumpkin Ridge Golf Club (Ghost Creek)</name>
+        <description><![CDATA[North Plains, Ore. -- $90-$150<br> pumpkinridge.com]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.003831,45.614338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>57. The Harvester Golf Club</name>
+        <description><![CDATA[Rhodes, Iowa -- $79-$139<br> harvestergolf.com (http://harvestergolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -93.209639,41.872948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>58. Cascata</name>
+        <description><![CDATA[Boulder City, Nev. -- $250-$425<br> golfcascata.com (http://www2.cybergolf.com/sites/courses/layout9.asp?id=1050&page=61753)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -114.89223,35.974516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59. Golden Horseshoe Golf Club (Gold)</name>
+        <description><![CDATA[Williamsburg, Va. -- $69-$169<br> colonialwilliamsburg.com (http://colonialwilliamsburg.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -76.697053,37.267069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>60. Atunyote at Turning Stone Resort</name>
+        <description><![CDATA[Verona, N.Y. -- $200-$225<br> turningstone.com (http://turningstone.com/golf/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -75.538387,43.095468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>61. Shenandoah at Turning Stone Resort</name>
+        <description><![CDATA[Verona, N.Y. -- $95-$150<br> turningstone.com (http://turningstone.com/golf/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -75.577183,43.121535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>62. Reynolds Plantation (Oconee)</name>
+        <description><![CDATA[Greensboro, Ga. -- $149-$245<br> reynoldsplantation.com (http://www.reynoldsplantation.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -83.270488,33.471437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>63. Linville Golf Club</name>
+        <description><![CDATA[Linville, N.C. -- $120<br> eseeola.com (http://www.eseeola.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -81.868701,36.064694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>64. CordeValle</name>
+        <description><![CDATA[San Martin, Calif. -- $95-$395<br> cordevalle.com (http://www.rosewoodhotels.com/en/cordevalle/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -121.636248,37.06754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>65. Wolf Creek Golf Club</name>
+        <description><![CDATA[Mesquite, Nev. -- $125-$195<br> golfwolfcreek.com (http://www.golfwolfcreek.com/sites/courses/layout9.asp?id=863&page=48604)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -114.060702,36.83639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>66. Wynn Las Vegas</name>
+        <description><![CDATA[Las Vegas, Nev. -- $350-$500<br> wynnlasvegas.com (http://www.wynnlasvegas.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -115.159507,36.125709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>67. Barton Creek Resort (Fazio Canyons)</name>
+        <description><![CDATA[Austin, Texas -- $150-$235<br> bartoncreek.com (http://www.bartoncreek.com/golf.aspx)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -97.855117,30.287495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>68. Karsten Creek Golf Club</name>
+        <description><![CDATA[Stillwater, Okla. -- $300<br> karstencreek.net (http://www.karstencreek.com/wPAGES/wHome.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -97.187333,36.102168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>69. The Greenbrier (Greenbrier)</name>
+        <description><![CDATA[White Sulphur Springs, W.Va. -- $150-$285<br> greenbrier.com (http://www.greenbrier.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -80.315723,37.790659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>70. The Broadmoor (East)</name>
+        <description><![CDATA[Colorado Springs, Colo. -- $155-$245<br> thebroadmoor.com (http://www.broadmoor.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -104.850683,38.78597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>71. French Lick Resort (Pete Dye)</name>
+        <description><![CDATA[French Lick, Ind. -- $350-$380<br> frenchlick.com (http://frenchlick.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -86.619816,38.556539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>72. The Glen Club</name>
+        <description><![CDATA[Glenview, Ill. -- $100-$203<br> theglenclub.com (http://theglenclub.com/layout10.asp?id=180&page=3746)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.828194,42.088589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73. Wild Horse Golf Club</name>
+        <description><![CDATA[Gothenburg, Neb. -- $37-$57<br> playwildhorse.com (http://www.playwildhorse.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.196278,40.956502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>74. Whistling Straits Golf Club (Irish)</name>
+        <description><![CDATA[Haven, Wis. -- $185-$215<br> americanclubresort.com (http://www.americanclubresort.com/index.html)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.736731,43.860432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>75. Hammock Beach Resort (Ocean)</name>
+        <description><![CDATA[Palm Coast, Fla. -- $115-$169<br> hammockbeach.com (http://hammockbeach.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -81.187592,29.608685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>76. Innisbrook Resort (Copperhead)</name>
+        <description><![CDATA[Palm Harbor, Fla. -- $140-$245<br> innisbrookgolfresort.com (http://www.innisbrookgolfresort.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -82.76031,28.112906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>77. La Quinta Resort (Mountain)</name>
+        <description><![CDATA[La Quinta, Calif. -- $69-$195<br> laquintaresort.com (http://laquintaresort.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -116.292086,33.682925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>78. The Prairie Club (Dunes)</name>
+        <description><![CDATA[Valentine, Neb. -- $125-$185<br> theprairieclub.com (http://www.theprairieclub.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.876808,42.663756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[79. Lakota Canyon Ranch & Golf Club]]></name>
+        <description><![CDATA[New Castle, Colo. -- $89<br> lakotacanyonranch.com (http://www.lakotacanyonranch.com/contact/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -107.517807,39.586574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>80. Atlantic City Country Club</name>
+        <description><![CDATA[Northfield, N.J. -- $65-$225<br> accountryclub.com (http://www.caesars.com/golf/atlantic-city-country-club/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -74.544382,39.36745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>81. Hawktree Golf Club</name>
+        <description><![CDATA[Bismarck, N.D. -- $73-$94<br> hawktree.com (http://www.hawktree.com/homepage/start_page.php)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -100.845008,46.89683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>82. The Links at Lighthouse Sound</name>
+        <description><![CDATA[Bishopville, Md. -- $55-$179<br> lighthousesound.com (http://lighthousesound.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -75.107818,38.409818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>83. Tullymore Golf Resort</name>
+        <description><![CDATA[Stanwood, Mich. -- $75-$160<br> tullymoregolf.com (http://www.tullymoregolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -85.321755,43.564223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>84. Marquette Golf Club (Greywalls)</name>
+        <description><![CDATA[Marquette, Mich. -- $75-$130<br> marquettegolfclub.com (http://marquettegolfclub.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -87.433491,46.527217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85. Lake of Isles (North)</name>
+        <description><![CDATA[North Stonington, Conn. -- $99-$199<br> lakeofisles.com (http://www.lakeofisles.com/index.php)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -71.944227,41.490063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>86. Barefoot Resort (Love)</name>
+        <description><![CDATA[North Myrtle Beach, S.C. -- $100-$185<br> barefootgolf.com (http://www.barefootgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -78.756244,33.806663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>87. Southern Dunes Golf Club</name>
+        <description><![CDATA[Maricopa, Ariz. -- $59-$119<br> golfsoutherndunes.com (http://www.golfsoutherndunes.com/index.php)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -112.090073,33.084135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>88. Branson Creek Golf Club</name>
+        <description><![CDATA[Hollister, Mo. -- $48-$99<br> bransoncreekgolf.com (http://www.bransoncreekgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -93.194919,36.574147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>89. Sunday River Golf Club</name>
+        <description><![CDATA[Newry, Me. -- $65-$120<br> sundayriver.com (http://www.sundayriver.com/summer.asp)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -70.888478,44.487934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>90. Circling Raven Golf Club</name>
+        <description><![CDATA[Worley, Idaho -- $65-$95<br> cdacasino.com (http://www.cdacasino.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -116.969419,47.42829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>91. Rustic Canyon Golf Course</name>
+        <description><![CDATA[Moorpark, Calif. -- $34-$79<br> rusticcanyongolfcourse.com (http://www.rusticcanyongolfcourse.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -118.861974,34.305487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[92. Coeur d'Alene Resort]]></name>
+        <description><![CDATA[Coeur d'Alene, Idaho -- $150-$220<br> cdaresort.com (http://www.cdaresort.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -116.752911,47.664116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>93. The Boulders Club (South)</name>
+        <description><![CDATA[Carefree, Ariz. -- $80-$220<br> theboulders.com (http://www.theboulders.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -111.918883,33.803739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>94. The Golf Club at Redlands Mesa</name>
+        <description><![CDATA[Grand Junction, Colo. -- $43-$105<br> redlandsmesa.com (http://www.redlandsmesa.com/Club/Scripts/Home/home.asp)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -108.620549,39.054368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>95. Tobacco Road Golf Club</name>
+        <description><![CDATA[Sanford, N.C. -- $49-$134<br> tobaccoroadgolf.com (http://tobaccoroadgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -79.212821,35.397411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>96. Dormie Club</name>
+        <description><![CDATA[West End, N.C. -- $115-$195<br> dormieclub.net (http://dormieclub.net/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -79.504559,35.259777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>97. Pinehurst Resort (No. 8)</name>
+        <description><![CDATA[Pinehurst, N.C. -- $150-$230<br> pinehurst.com (http://www.pinehurst.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -79.473553,35.181806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>98. The General at Eagle Ridge Resort</name>
+        <description><![CDATA[Galena, Ill. -- $80-$155<br> eagleridge.com (http://www.eagleridge.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -90.327551,42.374033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>99. Grayhawk Golf Club (Talon)</name>
+        <description><![CDATA[Scottsdale, Ariz. -- $60-$230<br> grayhawkgolf.com (http://grayhawkgolf.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -111.898885,33.679408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100. Doral Resort (TPC Blue Monster)</name>
+        <description><![CDATA[Miami, Fla. -- $210-$325<br> doralresort.com (http://www.doralresort.com/)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -80.342159,25.818127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

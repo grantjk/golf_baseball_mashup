@@ -1,7 +1,7 @@
 {
   "name": "mashup",
   "type": "FeatureCollection",
-  "feature": [
+  "features": [
     {
       "type": "Feature",
       "geometry": {
@@ -547,16 +547,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-124.395447",
-          "43.205176"
+          -124.395447,
+          43.205176
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "1",
         "Name": "1. Pacific Dunes",
-        "Lat": "43.205176",
-        "Long": "-124.395447"
+        "Lat": 43.205176,
+        "Long": -124.395447,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -564,16 +565,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-121.948639",
-          "36.567739"
+          -121.948639,
+          36.567739
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "2",
         "Name": "2. Pebble Beach Golf Links",
-        "Lat": "36.567739",
-        "Long": "-121.948639"
+        "Lat": 36.567739,
+        "Long": -121.948639,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -581,16 +583,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-79.46806",
-          "35.187979"
+          -79.46806,
+          35.187979
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "3",
         "Name": "3. Pinehurst Resort (No. 2)",
-        "Lat": "35.187979",
-        "Long": "-79.46806"
+        "Lat": 35.187979,
+        "Long": -79.46806,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -598,16 +601,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-87.73613",
-          "43.853825"
+          -87.73613,
+          43.853825
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "4",
         "Name": "4. Whistling Straits Golf Club (Straits)",
-        "Lat": "43.853825",
-        "Long": "-87.73613"
+        "Lat": 43.853825,
+        "Long": -87.73613,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -615,16 +619,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-80.001326",
-          "32.613406"
+          -80.001326,
+          32.613406
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "5",
         "Name": "5. The Ocean Course at Kiawah Island Resort",
-        "Lat": "32.613406",
-        "Long": "-80.001326"
+        "Lat": 32.613406,
+        "Long": -80.001326,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -632,16 +637,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-73.458366",
-          "40.746379"
+          -73.458366,
+          40.746379
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "6",
         "Name": "6. Bethpage State Park (Black)",
-        "Lat": "40.746379",
-        "Long": "-73.458366"
+        "Lat": 40.746379,
+        "Long": -73.458366,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -649,16 +655,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-81.395001",
-          "30.197811"
+          -81.395001,
+          30.197811
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "7",
         "Name": "7. TPC Sawgrass (Players Stadium)",
-        "Lat": "30.197811",
-        "Long": "-81.395001"
+        "Lat": 30.197811,
+        "Long": -81.395001,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -666,16 +673,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-124.38983",
-          "43.193886"
+          -124.38983,
+          43.193886
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "8",
         "Name": "8. Bandon Dunes",
-        "Lat": "43.193886",
-        "Long": "-124.38983"
+        "Lat": 43.193886,
+        "Long": -124.38983,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -683,16 +691,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-124.398236",
-          "43.18581"
+          -124.398236,
+          43.18581
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "9",
         "Name": "9. Old Macdonald",
-        "Lat": "43.18581",
-        "Long": "-124.398236"
+        "Lat": 43.18581,
+        "Long": -124.398236,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -700,16 +709,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-121.956554",
-          "36.585201"
+          -121.956554,
+          36.585201
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "10",
         "Name": "10. Spyglass Hill Golf Course",
-        "Lat": "36.585201",
-        "Long": "-121.956554"
+        "Lat": 36.585201,
+        "Long": -121.956554,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -717,16 +727,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-87.777672",
-          "43.729367"
+          -87.777672,
+          43.729367
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "11",
         "Name": "11. Blackwolf Run (River)",
-        "Lat": "43.729367",
-        "Long": "-87.777672"
+        "Lat": 43.729367,
+        "Long": -87.777672,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -734,16 +745,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-80.813552",
-          "32.137055"
+          -80.813552,
+          32.137055
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "12",
         "Name": "12. Harbour Town Golf Links",
-        "Lat": "32.137055",
-        "Long": "-80.813552"
+        "Lat": 32.137055,
+        "Long": -80.813552,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -751,16 +763,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.024975",
-          "37.004198"
+          -122.024975,
+          37.004198
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "13",
         "Name": "13. Pasatiempo Golf Club",
-        "Lat": "37.004198",
-        "Long": "-122.024975"
+        "Lat": 37.004198,
+        "Long": -122.024975,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -768,16 +781,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.57575",
-          "47.203185"
+          -122.57575,
+          47.203185
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "14",
         "Name": "14. Chambers Bay Golf Course",
-        "Lat": "47.203185",
-        "Long": "-122.57575"
+        "Lat": 47.203185,
+        "Long": -122.57575,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -785,16 +799,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-124.385147",
-          "43.207053"
+          -124.385147,
+          43.207053
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "15",
         "Name": "15. Bandon Trails",
-        "Lat": "43.207053",
-        "Long": "-124.385147"
+        "Lat": 43.207053,
+        "Long": -124.385147,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -802,16 +817,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-159.464922",
-          "22.21204"
+          -159.464922,
+          22.21204
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "16",
         "Name": "16. The Prince at Princeville",
-        "Lat": "22.21204",
-        "Long": "-159.464922"
+        "Lat": 22.21204,
+        "Long": -159.464922,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -819,16 +835,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-115.111656",
-          "36.25784"
+          -115.111656,
+          36.25784
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "17",
         "Name": "17. Shadow Creek",
-        "Lat": "36.25784",
-        "Long": "-115.111656"
+        "Lat": 36.25784,
+        "Long": -115.111656,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -836,16 +853,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-156.661134",
-          "21.000247"
+          -156.661134,
+          21.000247
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "18",
         "Name": "18. Kapalua Resort (Plantation)",
-        "Lat": "21.000247",
-        "Long": "-156.661134"
+        "Lat": 21.000247,
+        "Long": -156.661134,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -853,16 +871,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-82.483206",
-          "28.678277"
+          -82.483206,
+          28.678277
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "19",
         "Name": "19. World Woods (Pine Barrens)",
-        "Lat": "28.678277",
-        "Long": "-82.483206"
+        "Lat": 28.678277,
+        "Long": -82.483206,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -870,16 +889,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-111.856356",
-          "33.746395"
+          -111.856356,
+          33.746395
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "20",
         "Name": "20. Troon North Golf Club (Pinnacle)",
-        "Lat": "33.746395",
-        "Long": "-111.856356"
+        "Lat": 33.746395,
+        "Long": -111.856356,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -887,16 +907,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-87.955384",
-          "41.674675"
+          -87.955384,
+          41.674675
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "21",
         "Name": "21. Cog Hill Golf Club (No. 4)",
-        "Lat": "41.674675",
-        "Long": "-87.955384"
+        "Lat": 41.674675,
+        "Long": -87.955384,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -904,16 +925,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-155.822536",
-          "20.00037"
+          -155.822536,
+          20.00037
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "22",
         "Name": "22. Mauna Kea Golf Course",
-        "Lat": "20.00037",
-        "Long": "-155.822536"
+        "Lat": 20.00037,
+        "Long": -155.822536,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -921,16 +943,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-81.399765",
-          "31.156408"
+          -81.399765,
+          31.156408
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "23",
         "Name": "23. Sea Island Golf Club (Seaside)",
-        "Lat": "31.156408",
-        "Long": "-81.399765"
+        "Lat": 31.156408,
+        "Long": -81.399765,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -938,16 +961,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-79.824708",
-          "38.003112"
+          -79.824708,
+          38.003112
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "24",
         "Name": "24. The Homestead (Cascades)",
-        "Lat": "38.003112",
-        "Long": "-79.824708"
+        "Lat": 38.003112,
+        "Long": -79.824708,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -955,16 +979,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-117.248111",
-          "32.891948"
+          -117.248111,
+          32.891948
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "25",
         "Name": "25. Torrey Pines Golf Course (South)",
-        "Lat": "32.891948",
-        "Long": "-117.248111"
+        "Lat": 32.891948,
+        "Long": -117.248111,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -972,16 +997,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-88.904285",
-          "30.644927"
+          -88.904285,
+          30.644927
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "26",
         "Name": "26. Fallen Oak at Beau Rivage Resort",
-        "Lat": "30.644927",
-        "Long": "-88.904285"
+        "Lat": 30.644927,
+        "Long": -88.904285,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -989,16 +1015,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-79.153104",
-          "33.451513"
+          -79.153104,
+          33.451513
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "27",
         "Name": "27. Caledonia Golf and Fish Club",
-        "Lat": "33.451513",
-        "Long": "-79.153104"
+        "Lat": 33.451513,
+        "Long": -79.153104,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1006,16 +1033,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-86.244049",
-          "44.458351"
+          -86.244049,
+          44.458351
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "28",
         "Name": "28. Arcadia Bluffs Golf Club",
-        "Lat": "44.458351",
-        "Long": "-86.244049"
+        "Lat": 44.458351,
+        "Long": -86.244049,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1023,16 +1051,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-88.399086",
-          "43.247797"
+          -88.399086,
+          43.247797
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "29",
         "Name": "29. Erin Hills Golf Course",
-        "Lat": "43.247797",
-        "Long": "-88.399086"
+        "Lat": 43.247797,
+        "Long": -88.399086,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1040,16 +1069,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-118.340886",
-          "33.726463"
+          -118.340886,
+          33.726463
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "30",
         "Name": "30. Trump National Golf Club Los Angeles",
-        "Lat": "33.726463",
-        "Long": "-118.340886"
+        "Lat": 33.726463,
+        "Long": -118.340886,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1057,16 +1087,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-106.320963",
-          "35.207144"
+          -106.320963,
+          35.207144
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "31",
         "Name": "31. Paa-Ko Ridge Golf Club",
-        "Lat": "35.207144",
-        "Long": "-106.320963"
+        "Lat": 35.207144,
+        "Long": -106.320963,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1074,16 +1105,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-88.970375",
-          "32.756783"
+          -88.970375,
+          32.756783
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "32",
         "Name": "32. Dancing Rabbit (Azaleas)",
-        "Lat": "32.756783",
-        "Long": "-88.970375"
+        "Lat": 32.756783,
+        "Long": -88.970375,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1091,16 +1123,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-84.534259",
-          "44.581115"
+          -84.534259,
+          44.581115
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "33",
         "Name": "33. Forest Dunes Golf Club",
-        "Lat": "44.581115",
-        "Long": "-84.534259"
+        "Lat": 44.581115,
+        "Long": -84.534259,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1108,16 +1141,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-106.698618",
-          "39.686516"
+          -106.698618,
+          39.686516
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "34",
         "Name": "34. Red Sky Ranch Golf Club (Norman)",
-        "Lat": "39.686516",
-        "Long": "-106.698618"
+        "Lat": 39.686516,
+        "Long": -106.698618,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1125,16 +1159,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-83.254223",
-          "33.412242"
+          -83.254223,
+          33.412242
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "35",
         "Name": "35. The Golf Club at Cuscowilla",
-        "Lat": "33.412242",
-        "Long": "-83.254223"
+        "Lat": 33.412242,
+        "Long": -83.254223,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1142,16 +1177,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-80.408163",
-          "36.631165"
+          -80.408163,
+          36.631165
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "36",
         "Name": "36. The Highland Course at Primland Resort",
-        "Lat": "36.631165",
-        "Long": "-80.408163"
+        "Lat": 36.631165,
+        "Long": -80.408163,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1159,16 +1195,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-111.692419",
-          "33.583449"
+          -111.692419,
+          33.583449
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "37",
         "Name": "37. We-Ko-Pa Golf Club (Cholla)",
-        "Lat": "33.583449",
-        "Long": "-111.692419"
+        "Lat": 33.583449,
+        "Long": -111.692419,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1176,16 +1213,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-121.178255",
-          "44.185466"
+          -121.178255,
+          44.185466
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "38",
         "Name": "38. Pronghorn Golf Club & Resort (Nicklaus)",
-        "Lat": "44.185466",
-        "Long": "-121.178255"
+        "Lat": 44.185466,
+        "Long": -121.178255,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1193,16 +1231,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-73.203321",
-          "42.704799"
+          -73.203321,
+          42.704799
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "39",
         "Name": "39. Taconic Golf Club",
-        "Lat": "42.704799",
-        "Long": "-73.203321"
+        "Lat": 42.704799,
+        "Long": -73.203321,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1210,16 +1249,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-111.688213",
-          "33.596891"
+          -111.688213,
+          33.596891
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "40",
         "Name": "40. We-Ko-Pa Golf Club (Saguaro)",
-        "Lat": "33.596891",
-        "Long": "-111.688213"
+        "Lat": 33.596891,
+        "Long": -111.688213,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1227,16 +1267,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-76.131402",
-          "39.542788"
+          -76.131402,
+          39.542788
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "41",
         "Name": "41. Bulle Rock",
-        "Lat": "39.542788",
-        "Long": "-76.131402"
+        "Lat": 39.542788,
+        "Long": -76.131402,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1244,16 +1285,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-121.94129",
-          "36.613357"
+          -121.94129,
+          36.613357
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "42",
         "Name": "42. The Links at Spanish Bay",
-        "Lat": "36.613357",
-        "Long": "-121.94129"
+        "Lat": 36.613357,
+        "Long": -121.94129,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1261,16 +1303,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-83.217745",
-          "33.427358"
+          -83.217745,
+          33.427358
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "43",
         "Name": "43. Reynolds Plantation (Great Waters)",
-        "Lat": "33.427358",
-        "Long": "-83.217745"
+        "Lat": 33.427358,
+        "Long": -83.217745,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1278,16 +1321,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-106.049352",
-          "35.96255"
+          -106.049352,
+          35.96255
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "44",
         "Name": "44. Black Mesa Golf Club",
-        "Lat": "35.96255",
-        "Long": "-106.049352"
+        "Lat": 35.96255,
+        "Long": -106.049352,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1295,16 +1339,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-121.451068",
-          "43.857833"
+          -121.451068,
+          43.857833
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "45",
         "Name": "45. Crosswater at Sunriver Resort",
-        "Lat": "43.857833",
-        "Long": "-121.451068"
+        "Lat": 43.857833,
+        "Long": -121.451068,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1312,16 +1357,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-156.901116",
-          "20.741847"
+          -156.901116,
+          20.741847
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "46",
         "Name": "46. The Challenge at Manele",
-        "Lat": "20.741847",
-        "Long": "-156.901116"
+        "Lat": 20.741847,
+        "Long": -156.901116,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1329,16 +1375,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-78.79725",
-          "33.759883"
+          -78.79725,
+          33.759883
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "47",
         "Name": "47. Dunes Golf & Beach Club",
-        "Lat": "33.759883",
-        "Long": "-78.79725"
+        "Lat": 33.759883,
+        "Long": -78.79725,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1346,16 +1393,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-81.51083",
-          "28.464428"
+          -81.51083,
+          28.464428
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "48",
         "Name": "48. Arnold Palmer’s Bay Hill Club (Champ.)",
-        "Lat": "28.464428",
-        "Long": "-81.51083"
+        "Lat": 28.464428,
+        "Long": -81.51083,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1363,16 +1411,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-85.065079",
-          "45.362519"
+          -85.065079,
+          45.362519
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "49",
         "Name": "49. Bay Harbor Golf Club (Links/Quarry)",
-        "Lat": "45.362519",
-        "Long": "-85.065079"
+        "Lat": 45.362519,
+        "Long": -85.065079,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1380,16 +1429,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-79.390941",
-          "35.198588"
+          -79.390941,
+          35.198588
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "50",
         "Name": "50. Pine Needles Lodge and Golf Club",
-        "Lat": "35.198588",
-        "Long": "-79.390941"
+        "Lat": 35.198588,
+        "Long": -79.390941,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1397,16 +1447,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-80.890961",
-          "32.210768"
+          -80.890961,
+          32.210768
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "51",
         "Name": "51. May River Golf Club at Palmetto Bluff",
-        "Lat": "32.210768",
-        "Long": "-80.890961"
+        "Lat": 32.210768,
+        "Long": -80.890961,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1414,16 +1465,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-111.875839",
-          "33.745468"
+          -111.875839,
+          33.745468
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "52",
         "Name": "52. Troon North Golf Club (Monument)",
-        "Lat": "33.745468",
-        "Long": "-111.875839"
+        "Lat": 33.745468,
+        "Long": -111.875839,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1431,16 +1483,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-116.26344",
-          "33.651905"
+          -116.26344,
+          33.651905
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "53",
         "Name": "53. PGA West (TPC Stadium)",
-        "Lat": "33.651905",
-        "Long": "-116.26344"
+        "Lat": 33.651905,
+        "Long": -116.26344,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1448,16 +1501,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-92.306957",
-          "47.581997"
+          -92.306957,
+          47.581997
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "54",
         "Name": "54. The Quarry at Giants Ridge",
-        "Lat": "47.581997",
-        "Long": "-92.306957"
+        "Lat": 47.581997,
+        "Long": -92.306957,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1465,16 +1519,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-82.23685",
-          "40.08848"
+          -82.23685,
+          40.08848
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "55",
         "Name": "55. Longaberger",
-        "Lat": "40.08848",
-        "Long": "-82.23685"
+        "Lat": 40.08848,
+        "Long": -82.23685,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1482,16 +1537,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-123.003831",
-          "45.614338"
+          -123.003831,
+          45.614338
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "56",
         "Name": "56. Pumpkin Ridge Golf Club (Ghost Creek)",
-        "Lat": "45.614338",
-        "Long": "-123.003831"
+        "Lat": 45.614338,
+        "Long": -123.003831,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1499,16 +1555,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-93.209639",
-          "41.872948"
+          -93.209639,
+          41.872948
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "57",
         "Name": "57. The Harvester Golf Club",
-        "Lat": "41.872948",
-        "Long": "-93.209639"
+        "Lat": 41.872948,
+        "Long": -93.209639,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1516,16 +1573,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-114.89223",
-          "35.974516"
+          -114.89223,
+          35.974516
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "58",
         "Name": "58. Cascata",
-        "Lat": "35.974516",
-        "Long": "-114.89223"
+        "Lat": 35.974516,
+        "Long": -114.89223,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1533,16 +1591,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-76.697053",
-          "37.267069"
+          -76.697053,
+          37.267069
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "59",
         "Name": "59. Golden Horseshoe Golf Club (Gold)",
-        "Lat": "37.267069",
-        "Long": "-76.697053"
+        "Lat": 37.267069,
+        "Long": -76.697053,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1550,16 +1609,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-75.538387",
-          "43.095468"
+          -75.538387,
+          43.095468
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "60",
         "Name": "60. Atunyote at Turning Stone Resort",
-        "Lat": "43.095468",
-        "Long": "-75.538387"
+        "Lat": 43.095468,
+        "Long": -75.538387,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1567,16 +1627,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-75.577183",
-          "43.121535"
+          -75.577183,
+          43.121535
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "61",
         "Name": "61. Shenandoah at Turning Stone Resort",
-        "Lat": "43.121535",
-        "Long": "-75.577183"
+        "Lat": 43.121535,
+        "Long": -75.577183,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1584,16 +1645,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-83.270488",
-          "33.471437"
+          -83.270488,
+          33.471437
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "62",
         "Name": "62. Reynolds Plantation (Oconee)",
-        "Lat": "33.471437",
-        "Long": "-83.270488"
+        "Lat": 33.471437,
+        "Long": -83.270488,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1601,16 +1663,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-81.868701",
-          "36.064694"
+          -81.868701,
+          36.064694
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "63",
         "Name": "63. Linville Golf Club",
-        "Lat": "36.064694",
-        "Long": "-81.868701"
+        "Lat": 36.064694,
+        "Long": -81.868701,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1618,16 +1681,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-121.636248",
-          "37.06754"
+          -121.636248,
+          37.06754
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "64",
         "Name": "64. CordeValle",
-        "Lat": "37.06754",
-        "Long": "-121.636248"
+        "Lat": 37.06754,
+        "Long": -121.636248,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1635,16 +1699,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-114.060702",
-          "36.83639"
+          -114.060702,
+          36.83639
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "65",
         "Name": "65. Wolf Creek Golf Club",
-        "Lat": "36.83639",
-        "Long": "-114.060702"
+        "Lat": 36.83639,
+        "Long": -114.060702,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1652,16 +1717,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-115.159507",
-          "36.125709"
+          -115.159507,
+          36.125709
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "66",
         "Name": "66. Wynn Las Vegas",
-        "Lat": "36.125709",
-        "Long": "-115.159507"
+        "Lat": 36.125709,
+        "Long": -115.159507,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1669,16 +1735,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-97.855117",
-          "30.287495"
+          -97.855117,
+          30.287495
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "67",
         "Name": "67. Barton Creek Resort (Fazio Canyons)",
-        "Lat": "30.287495",
-        "Long": "-97.855117"
+        "Lat": 30.287495,
+        "Long": -97.855117,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1686,16 +1753,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-97.187333",
-          "36.102168"
+          -97.187333,
+          36.102168
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "68",
         "Name": "68. Karsten Creek Golf Club",
-        "Lat": "36.102168",
-        "Long": "-97.187333"
+        "Lat": 36.102168,
+        "Long": -97.187333,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1703,16 +1771,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-80.315723",
-          "37.790659"
+          -80.315723,
+          37.790659
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "69",
         "Name": "69. The Greenbrier (Greenbrier)",
-        "Lat": "37.790659",
-        "Long": "-80.315723"
+        "Lat": 37.790659,
+        "Long": -80.315723,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1720,16 +1789,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-104.850683",
-          "38.78597"
+          -104.850683,
+          38.78597
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "70",
         "Name": "70. The Broadmoor (East)",
-        "Lat": "38.78597",
-        "Long": "-104.850683"
+        "Lat": 38.78597,
+        "Long": -104.850683,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1737,16 +1807,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-86.619816",
-          "38.556539"
+          -86.619816,
+          38.556539
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "71",
         "Name": "71. French Lick Resort (Pete Dye)",
-        "Lat": "38.556539",
-        "Long": "-86.619816"
+        "Lat": 38.556539,
+        "Long": -86.619816,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1754,16 +1825,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-87.828194",
-          "42.088589"
+          -87.828194,
+          42.088589
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "72",
         "Name": "72. The Glen Club",
-        "Lat": "42.088589",
-        "Long": "-87.828194"
+        "Lat": 42.088589,
+        "Long": -87.828194,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1771,16 +1843,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-100.196278",
-          "40.956502"
+          -100.196278,
+          40.956502
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "73",
         "Name": "73. Wild Horse Golf Club",
-        "Lat": "40.956502",
-        "Long": "-100.196278"
+        "Lat": 40.956502,
+        "Long": -100.196278,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1788,16 +1861,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-87.736731",
-          "43.860432"
+          -87.736731,
+          43.860432
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "74",
         "Name": "74. Whistling Straits Golf Club (Irish)",
-        "Lat": "43.860432",
-        "Long": "-87.736731"
+        "Lat": 43.860432,
+        "Long": -87.736731,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1805,16 +1879,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-81.187592",
-          "29.608685"
+          -81.187592,
+          29.608685
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "75",
         "Name": "75. Hammock Beach Resort (Ocean)",
-        "Lat": "29.608685",
-        "Long": "-81.187592"
+        "Lat": 29.608685,
+        "Long": -81.187592,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1822,16 +1897,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-82.76031",
-          "28.112906"
+          -82.76031,
+          28.112906
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "76",
         "Name": "76. Innisbrook Resort (Copperhead)",
-        "Lat": "28.112906",
-        "Long": "-82.76031"
+        "Lat": 28.112906,
+        "Long": -82.76031,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1839,16 +1915,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-116.292086",
-          "33.682925"
+          -116.292086,
+          33.682925
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "77",
         "Name": "77. La Quinta Resort (Mountain)",
-        "Lat": "33.682925",
-        "Long": "-116.292086"
+        "Lat": 33.682925,
+        "Long": -116.292086,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1856,16 +1933,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-100.876808",
-          "42.663756"
+          -100.876808,
+          42.663756
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "78",
         "Name": "78. The Prairie Club (Dunes)",
-        "Lat": "42.663756",
-        "Long": "-100.876808"
+        "Lat": 42.663756,
+        "Long": -100.876808,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1873,16 +1951,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-107.517807",
-          "39.586574"
+          -107.517807,
+          39.586574
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "79",
         "Name": "79. Lakota Canyon Ranch & Golf Club",
-        "Lat": "39.586574",
-        "Long": "-107.517807"
+        "Lat": 39.586574,
+        "Long": -107.517807,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1890,16 +1969,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.544382",
-          "39.36745"
+          -74.544382,
+          39.36745
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "80",
         "Name": "80. Atlantic City Country Club",
-        "Lat": "39.36745",
-        "Long": "-74.544382"
+        "Lat": 39.36745,
+        "Long": -74.544382,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1907,16 +1987,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-100.845008",
-          "46.89683"
+          -100.845008,
+          46.89683
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "81",
         "Name": "81. Hawktree Golf Club",
-        "Lat": "46.89683",
-        "Long": "-100.845008"
+        "Lat": 46.89683,
+        "Long": -100.845008,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1924,16 +2005,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-75.107818",
-          "38.409818"
+          -75.107818,
+          38.409818
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "82",
         "Name": "82. The Links at Lighthouse Sound",
-        "Lat": "38.409818",
-        "Long": "-75.107818"
+        "Lat": 38.409818,
+        "Long": -75.107818,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1941,16 +2023,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-85.321755",
-          "43.564223"
+          -85.321755,
+          43.564223
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "83",
         "Name": "83. Tullymore Golf Resort",
-        "Lat": "43.564223",
-        "Long": "-85.321755"
+        "Lat": 43.564223,
+        "Long": -85.321755,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1958,16 +2041,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-87.433491",
-          "46.527217"
+          -87.433491,
+          46.527217
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "84",
         "Name": "84. Marquette Golf Club (Greywalls)",
-        "Lat": "46.527217",
-        "Long": "-87.433491"
+        "Lat": 46.527217,
+        "Long": -87.433491,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1975,16 +2059,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-71.944227",
-          "41.490063"
+          -71.944227,
+          41.490063
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "85",
         "Name": "85. Lake of Isles (North)",
-        "Lat": "41.490063",
-        "Long": "-71.944227"
+        "Lat": 41.490063,
+        "Long": -71.944227,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -1992,16 +2077,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-78.756244",
-          "33.806663"
+          -78.756244,
+          33.806663
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "86",
         "Name": "86. Barefoot Resort (Love)",
-        "Lat": "33.806663",
-        "Long": "-78.756244"
+        "Lat": 33.806663,
+        "Long": -78.756244,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2009,16 +2095,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-112.090073",
-          "33.084135"
+          -112.090073,
+          33.084135
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "87",
         "Name": "87. Southern Dunes Golf Club",
-        "Lat": "33.084135",
-        "Long": "-112.090073"
+        "Lat": 33.084135,
+        "Long": -112.090073,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2026,16 +2113,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-93.194919",
-          "36.574147"
+          -93.194919,
+          36.574147
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "88",
         "Name": "88. Branson Creek Golf Club",
-        "Lat": "36.574147",
-        "Long": "-93.194919"
+        "Lat": 36.574147,
+        "Long": -93.194919,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2043,16 +2131,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-70.888478",
-          "44.487934"
+          -70.888478,
+          44.487934
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "89",
         "Name": "89. Sunday River Golf Club",
-        "Lat": "44.487934",
-        "Long": "-70.888478"
+        "Lat": 44.487934,
+        "Long": -70.888478,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2060,16 +2149,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-116.969419",
-          "47.42829"
+          -116.969419,
+          47.42829
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "90",
         "Name": "90. Circling Raven Golf Club",
-        "Lat": "47.42829",
-        "Long": "-116.969419"
+        "Lat": 47.42829,
+        "Long": -116.969419,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2077,16 +2167,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-118.861974",
-          "34.305487"
+          -118.861974,
+          34.305487
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "91",
         "Name": "91. Rustic Canyon Golf Course",
-        "Lat": "34.305487",
-        "Long": "-118.861974"
+        "Lat": 34.305487,
+        "Long": -118.861974,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2094,16 +2185,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-116.752911",
-          "47.664116"
+          -116.752911,
+          47.664116
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "92",
         "Name": "92. Coeur d'Alene Resort",
-        "Lat": "47.664116",
-        "Long": "-116.752911"
+        "Lat": 47.664116,
+        "Long": -116.752911,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2111,16 +2203,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-111.918883",
-          "33.803739"
+          -111.918883,
+          33.803739
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "93",
         "Name": "93. The Boulders Club (South)",
-        "Lat": "33.803739",
-        "Long": "-111.918883"
+        "Lat": 33.803739,
+        "Long": -111.918883,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2128,16 +2221,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-108.620549",
-          "39.054368"
+          -108.620549,
+          39.054368
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "94",
         "Name": "94. The Golf Club at Redlands Mesa",
-        "Lat": "39.054368",
-        "Long": "-108.620549"
+        "Lat": 39.054368,
+        "Long": -108.620549,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2145,16 +2239,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-79.212821",
-          "35.397411"
+          -79.212821,
+          35.397411
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "95",
         "Name": "95. Tobacco Road Golf Club",
-        "Lat": "35.397411",
-        "Long": "-79.212821"
+        "Lat": 35.397411,
+        "Long": -79.212821,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2162,16 +2257,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-79.504559",
-          "35.259777"
+          -79.504559,
+          35.259777
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "96",
         "Name": "96. Dormie Club",
-        "Lat": "35.259777",
-        "Long": "-79.504559"
+        "Lat": 35.259777,
+        "Long": -79.504559,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2179,16 +2275,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-79.473553",
-          "35.181806"
+          -79.473553,
+          35.181806
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "97",
         "Name": "97. Pinehurst Resort (No. 8)",
-        "Lat": "35.181806",
-        "Long": "-79.473553"
+        "Lat": 35.181806,
+        "Long": -79.473553,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2196,16 +2293,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-90.327551",
-          "42.374033"
+          -90.327551,
+          42.374033
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "98",
         "Name": "98. The General at Eagle Ridge Resort",
-        "Lat": "42.374033",
-        "Long": "-90.327551"
+        "Lat": 42.374033,
+        "Long": -90.327551,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2213,16 +2311,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-111.898885",
-          "33.679408"
+          -111.898885,
+          33.679408
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "99",
         "Name": "99. Grayhawk Golf Club (Talon)",
-        "Lat": "33.679408",
-        "Long": "-111.898885"
+        "Lat": 33.679408,
+        "Long": -111.898885,
+        "marker-color": "#007f00"
       }
     },
     {
@@ -2230,16 +2329,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-80.342159",
-          "25.818127"
+          -80.342159,
+          25.818127
         ]
       },
       "properties": {
         "Class": "Golf",
         "Rank": "100",
         "Name": "100. Doral Resort (TPC Blue Monster)",
-        "Lat": "25.818127",
-        "Long": "-80.342159"
+        "Lat": 25.818127,
+        "Long": -80.342159,
+        "marker-color": "#007f00"
       }
     }
   ]

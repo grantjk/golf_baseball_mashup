@@ -28,7 +28,7 @@ function readGolfCourses() {
 }
 
 function courseToGEOJson (course) {
-  var coords = course.Point.coordinates.split(",")
+  var coords = _.map(course.Point.coordinates.split(","), parseFloat)
   return {
     type: "Feature",
     geometry: {
@@ -40,7 +40,8 @@ function courseToGEOJson (course) {
       Rank: course.name.split('.')[0],
       Name: course.name,
       Lat: coords[1],
-      Long: coords[0]
+      Long: coords[0],
+      "marker-color": "#007f00"
     }
   }
 }
@@ -51,7 +52,7 @@ function writeResult(ballparks, courses) {
   var result = {
     name: "mashup",
     type: "FeatureCollection",
-    feature: all,
+    features: all,
   }
 
   fs.writeFileSync('mashup.geojson', JSON.stringify(result, null, 2), 'utf8')

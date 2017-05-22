@@ -547,6 +547,937 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.629167,
+          35.069722
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Albuquerque Isotopes",
+        "Ballpark": "Isotopes Park",
+        "Lat": "35.069722",
+        "Long": "-106.629167",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.710311,
+          38.894172
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Colorado Springs Sky Sox",
+        "Ballpark": "Security Service Field",
+        "Lat": "38.894172",
+        "Long": "-104.710311",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.492526,
+          31.759136
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "El Paso Chihuahuas",
+        "Ballpark": "New El Paso Ballpark",
+        "Lat": "31.759136",
+        "Long": "-106.492526",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7905,
+          36.7321
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Fresno Grizzlies",
+        "Ballpark": "Chukchansi Park",
+        "Lat": "36.7321",
+        "Long": "-119.7905",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.615833,
+          41.580278
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Iowa Cubs",
+        "Ballpark": "Principal Park",
+        "Lat": "41.580278",
+        "Long": "-93.615833",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.129972,
+          36.179667
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Las Vegas 51s",
+        "Ballpark": "Cashman Field",
+        "Lat": "36.179667",
+        "Long": "-115.129972",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.04917,
+          35.143056
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Memphis Redbirds",
+        "Ballpark": "AutoZone Park",
+        "Lat": "35.143056",
+        "Long": "-90.049167",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.773431,
+          36.143142
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Nashville Sounds",
+        "Ballpark": "Herschel Greer Stadium",
+        "Lat": "36.143142",
+        "Long": "-86.773431",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.199742,
+          29.975442
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "New Orleans Zephyrs",
+        "Ballpark": "Zephyr Field",
+        "Lat": "29.975442",
+        "Long": "-90.199742",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.50805,
+          35.464961
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Oklahoma City Dodgers",
+        "Ballpark": "Chickasaw Bricktown Ballpark",
+        "Lat": "35.464961",
+        "Long": "-97.50805",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.107,
+          41.151
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Omaha Storm Chasers",
+        "Ballpark": "Werner Park",
+        "Lat": "41.151",
+        "Long": "-96.107",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.80863,
+          39.528131
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Reno Aces",
+        "Ballpark": "Aces Ballpark",
+        "Lat": "39.528131",
+        "Long": "-119.808633",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6305,
+          30.5273
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Round Rock Express",
+        "Ballpark": "Dell Diamond",
+        "Lat": "30.5273",
+        "Long": "-97.6305",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5138,
+          38.580372
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Sacramento River Cats",
+        "Ballpark": "Raley Field",
+        "Lat": "38.580372",
+        "Long": "-121.5138",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.892778,
+          40.740556
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Salt Lake Bees",
+        "Ballpark": "Smith's Ballpark",
+        "Lat": "40.740556",
+        "Long": "-111.892778",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.497544,
+          47.238033
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Pacific Coast League",
+        "Team": "Tacoma Rainiers",
+        "Ballpark": "Cheney Stadium",
+        "Lat": "47.238033",
+        "Long": "-122.497544",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.873794,
+          42.880345
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Buffalo Bisons",
+        "Ballpark": "Coca-Cola Field",
+        "Lat": "42.880345",
+        "Long": "-78.873794",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4525,
+          40.626111
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Lehigh Valley Iron Pigs",
+        "Ballpark": "Coca-Cola Park",
+        "Lat": "40.626111",
+        "Long": "-75.4525",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.370039,
+          41.873164
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Pawtucket Red Sox",
+        "Ballpark": "McCoy Stadium",
+        "Lat": "41.873164",
+        "Long": "-71.370039",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.619794,
+          43.158267
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Rochester Red Wings",
+        "Ballpark": "Frontier Field",
+        "Lat": "43.158267",
+        "Long": "-77.619794",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.683967,
+          41.360406
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Scranton/Wilks-Barre RailRaiders",
+        "Ballpark": "PNC Field",
+        "Lat": "41.360406",
+        "Long": "-75.683967",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.165358,
+          43.079078
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Syracuse Chiefs",
+        "Ballpark": "NBT Bank Stadium",
+        "Lat": "43.079078",
+        "Long": "-76.165358",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.849011,
+          35.227988
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Charlotte Knights",
+        "Ballpark": "BB&T Ballpark",
+        "Lat": "35.227988",
+        "Long": "-80.849011",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.904186,
+          35.991689
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Durham Bulls",
+        "Ballpark": "Durham Bulls Athletic Park",
+        "Lat": "35.991689",
+        "Long": "-78.904186",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.992367,
+          34.041494
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Gwinnett Braves",
+        "Ballpark": "Coolray Field",
+        "Lat": "34.041494",
+        "Long": "-83.992367",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.278869,
+          36.842789
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Norfolk Tides",
+        "Ballpark": "Harbor Park",
+        "Lat": "36.842789",
+        "Long": "-76.278869",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.010743,
+          39.968619
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Columbus Clippers",
+        "Ballpark": "Huntington Park",
+        "Lat": "39.968619",
+        "Long": "-83.010743",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.168333,
+          39.765
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Indianapolis Indians",
+        "Ballpark": "Victory Field",
+        "Lat": "39.765",
+        "Long": "-86.168333",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74465,
+          38.256186
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Louisville Bats",
+        "Ballpark": "Louisville Slugger Field",
+        "Lat": "38.256186",
+        "Long": "-85.744653",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.538986,
+          41.648314
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "International League",
+        "Team": "Toledo Mud Hens",
+        "Ballpark": "Fifth Third Field",
+        "Lat": "41.648314",
+        "Long": "-83.538986",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.31575,
+          25.718517
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Sultanes de Monterrey",
+        "Ballpark": "Estadio de Beisbol Monterrey",
+        "Lat": "25.718517",
+        "Long": "-100.31575",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.312292,
+          26.078825
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Broncos de Reynosa",
+        "Ballpark": "Estadio Adolfo López Mateos",
+        "Lat": "26.078825",
+        "Long": "-98.312292",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.978806,
+          25.433653
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Saraperos de Saltillo",
+        "Ballpark": "Estadio de Béisbol Francisco I. Madero",
+        "Lat": "25.433653",
+        "Long": "-100.978806",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.273542,
+          21.879776
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Rieleros de Aguascalientes",
+        "Ballpark": "Parque Alberto Romo Chávez",
+        "Lat": "21.879776",
+        "Long": "-102.273542",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.429178,
+          25.539575
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Vaqueros Laguna",
+        "Ballpark": "Estadio Revolución",
+        "Lat": "25.539575",
+        "Long": "-103.429178",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.095944,
+          19.404889
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Diablos Rojos del México",
+        "Ballpark": "Foro Sol",
+        "Lat": "19.404889",
+        "Long": "-99.095944",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.444117,
+          26.906914
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Acereros de Monclova",
+        "Ballpark": "Estadio De Béisbol Monclova",
+        "Lat": "26.906914",
+        "Long": "-101.444117",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.31575,
+          25.718517
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Sultanes de Monterrey",
+        "Ballpark": "Estadio de Beisbol Monterrey",
+        "Lat": "25.718517",
+        "Long": "-100.31575",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.91748,
+          32.483212
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Toros de Tijuana",
+        "Ballpark": "Estadio Gasmart",
+        "Lat": "32.483212",
+        "Long": "-116.91748",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.312292,
+          26.078825
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Broncos de Reynosa",
+        "Ballpark": "Estadio Adolfo López Mateos",
+        "Lat": "26.078825",
+        "Long": "-98.312292",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.978806,
+          25.433653
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Saraperos de Saltillo",
+        "Ballpark": "Estadio de Béisbol Francisco I. Madero",
+        "Lat": "25.433653",
+        "Long": "-100.978806",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.516906,
+          19.845797
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Piratas de Campeche",
+        "Ballpark": "Estadio Nelson Barrera",
+        "Lat": "19.845797",
+        "Long": "-90.516906",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.81932,
+          18.647458
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Delfines de Ciudad del Carmen",
+        "Ballpark": "Estadio Resurgimiento",
+        "Lat": "18.647458",
+        "Long": "-91.81932",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.165377,
+          19.075178
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Pericos de Puebla",
+        "Ballpark": "Estadio Hermanos Serdán",
+        "Lat": "19.075178",
+        "Long": "-98.165377",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.713,
+          17.07
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Guerreros de Oaxaca",
+        "Ballpark": "Eduardo Vasconcelos Stadium",
+        "Lat": "17.07",
+        "Long": "-96.713",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.836861,
+          21.152525
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Tigres de Quintana Roo",
+        "Ballpark": "Estadio de Béisbol Beto Ávila",
+        "Lat": "21.152525",
+        "Long": "-86.836861",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.944167,
+          17.976667
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Olmecas de Tabasco",
+        "Ballpark": "Estadio Centenario 27 de Febrero",
+        "Lat": "17.976667",
+        "Long": "-92.944167",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.122736,
+          19.165097
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Rojos del Águila de Veracruz",
+        "Ballpark": "Estadio Universitario Beto Avila",
+        "Lat": "19.165097",
+        "Long": "-96.122736",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.595983,
+          20.941211
+        ]
+      },
+      "properties": {
+        "Class": "Triple-A",
+        "League": "Mexican League",
+        "Team": "Leones de Yucatán",
+        "Ballpark": "Estadio de Béisbol Kukulkán",
+        "Lat": "20.941211",
+        "Long": "-89.595983",
+        "marker-color": "#9F0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -124.395447,
           43.205176
         ]
@@ -2447,18 +3378,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.629167,
-          35.069722
+          43.730068,
+          -87.77581700000002
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Albuquerque Isotopes",
-        "Ballpark": "Isotopes Park",
-        "Lat": "35.069722",
-        "Long": "-106.629167",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "72",
+        "Name": "#72. Blackwolf Run (Meadow Valleys)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.730068,
+        "Long": -87.77581700000002,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2466,18 +3397,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.710311,
-          38.894172
+          19.8277801,
+          -155.9915542
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Colorado Springs Sky Sox",
-        "Ballpark": "Security Service Field",
-        "Lat": "38.894172",
-        "Long": "-104.710311",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "99",
+        "Name": "#99. Hualalai Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 19.8277801,
+        "Long": -155.9915542,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2485,18 +3416,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.492526,
-          31.759136
+          33.5847662,
+          -117.84046439999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "El Paso Chihuahuas",
-        "Ballpark": "New El Paso Ballpark",
-        "Lat": "31.759136",
-        "Long": "-106.492526",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "61",
+        "Name": "#61. Pelican Hill (Ocean South)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 33.5847662,
+        "Long": -117.84046439999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2504,18 +3435,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7905,
-          36.7321
+          32.9041197,
+          -117.24463149999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Fresno Grizzlies",
-        "Ballpark": "Chukchansi Park",
-        "Lat": "36.7321",
-        "Long": "-119.7905",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "39",
+        "Name": "#39. Torrey Pines Golf Course (South)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 32.9041197,
+        "Long": -117.24463149999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2523,18 +3454,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.615833,
-          41.580278
+          38.5733373,
+          -86.636956
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Iowa Cubs",
-        "Ballpark": "Principal Park",
-        "Lat": "41.580278",
-        "Long": "-93.615833",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "17",
+        "Name": "#17. The Pete Dye Course at French Lick Resort",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 38.5733373,
+        "Long": -86.636956,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2542,18 +3473,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.129972,
-          36.179667
+          26.9342246,
+          -80.09420869999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Las Vegas 51s",
-        "Ballpark": "Cashman Field",
-        "Lat": "36.179667",
-        "Long": "-115.129972",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "bonus",
+        "Name": "Bonus Rounds in Jupiter: The Dye Preserve & Palm Beach Par 3",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/08/Map-golf-flag.png",
+        "Lat": 26.9342246,
+        "Long": -80.09420869999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2561,18 +3492,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.04917,
-          35.143056
+          40.0890256,
+          -82.23454659999999
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Memphis Redbirds",
-        "Ballpark": "AutoZone Park",
-        "Lat": "35.143056",
-        "Long": "-90.049167",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "74",
+        "Name": "#74. Longaberger Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 40.0890256,
+        "Long": -82.23454659999999,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2580,18 +3511,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.773431,
-          36.143142
+          20.6655793,
+          -156.43581870000003
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Nashville Sounds",
-        "Ballpark": "Herschel Greer Stadium",
-        "Lat": "36.143142",
-        "Long": "-86.773431",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "100",
+        "Name": "#100. Wailea Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 20.6655793,
+        "Long": -156.43581870000003,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2599,18 +3530,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.199742,
-          29.975442
+          35.2074447,
+          -106.31796710000003
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "New Orleans Zephyrs",
-        "Ballpark": "Zephyr Field",
-        "Lat": "29.975442",
-        "Long": "-90.199742",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "58",
+        "Name": "#58. PAA-KO Ridge Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 35.2074447,
+        "Long": -106.31796710000003,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2618,18 +3549,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.50805,
-          35.464961
+          32.2024616,
+          -80.88652589999998
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Oklahoma City Dodgers",
-        "Ballpark": "Chickasaw Bricktown Ballpark",
-        "Lat": "35.464961",
-        "Long": "-97.50805",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "37",
+        "Name": "#37. May River Golf Club at Palmetto Bluff",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 32.2024616,
+        "Long": -80.88652589999998,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2637,18 +3568,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.107,
-          41.151
+          43.730068,
+          -87.77581700000002
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Omaha Storm Chasers",
-        "Ballpark": "Werner Park",
-        "Lat": "41.151",
-        "Long": "-96.107",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "16",
+        "Name": "#16. Blackwolf Run (River)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.730068,
+        "Long": -87.77581700000002,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2656,18 +3587,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.80863,
-          39.528131
+          30.1990251,
+          -81.39483200000001
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Reno Aces",
-        "Ballpark": "Aces Ballpark",
-        "Lat": "39.528131",
-        "Long": "-119.808633",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "10",
+        "Name": "#10. TPC Sawgrass (Stadium)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 30.1990251,
+        "Long": -81.39483200000001,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2675,18 +3606,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.6305,
-          30.5273
+          22.2208275,
+          -159.4968789
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Round Rock Express",
-        "Ballpark": "Dell Diamond",
-        "Lat": "30.5273",
-        "Long": "-97.6305",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "22",
+        "Name": "#22. The Prince Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 22.2208275,
+        "Long": -159.4968789,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2694,18 +3625,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.5138,
-          38.580372
+          42.7299433,
+          -100.79329330000002
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Sacramento River Cats",
-        "Ballpark": "Raley Field",
-        "Lat": "38.580372",
-        "Long": "-121.5138",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "75",
+        "Name": "#75. The Prairie Club (Pines)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 42.7299433,
+        "Long": -100.79329330000002,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2713,18 +3644,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.892778,
-          40.740556
+          47.400736,
+          -116.91712459999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Salt Lake Bees",
-        "Ballpark": "Smith's Ballpark",
-        "Lat": "40.740556",
-        "Long": "-111.892778",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "96",
+        "Name": "#96. Circling Raven Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 47.400736,
+        "Long": -116.91712459999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2732,18 +3663,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.497544,
-          47.238033
+          41.665869,
+          -87.96323039999999
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Pacific Coast League",
-        "Team": "Tacoma Rainiers",
-        "Ballpark": "Cheney Stadium",
-        "Lat": "47.238033",
-        "Long": "-122.497544",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "53",
+        "Name": "#53. Cog Hill Golf & CC (No. 4 Dubsdread)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 41.665869,
+        "Long": -87.96323039999999,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2751,18 +3682,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.873794,
-          42.880345
+          31.1451548,
+          -81.40481620000003
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Buffalo Bisons",
-        "Ballpark": "Coca-Cola Field",
-        "Lat": "42.880345",
-        "Long": "-78.873794",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "34",
+        "Name": "#34. Sea Island Golf Club (Seaside)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 31.1451548,
+        "Long": -81.40481620000003,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2770,18 +3701,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.4525,
-          40.626111
+          43.1740578,
+          -124.39136659999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Lehigh Valley Iron Pigs",
-        "Ballpark": "Coca-Cola Park",
-        "Lat": "40.626111",
-        "Long": "-75.4525",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "15",
+        "Name": "#15. Bandon Trails",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.1740578,
+        "Long": -124.39136659999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2789,18 +3720,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.370039,
-          41.873164
+          28.4582516,
+          -81.51066500000002
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Pawtucket Red Sox",
-        "Ballpark": "McCoy Stadium",
-        "Lat": "41.873164",
-        "Long": "-71.370039",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "97",
+        "Name": "#97. Bay Hill Club (Champion/Challenger)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 28.4582516,
+        "Long": -81.51066500000002,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2808,18 +3739,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.619794,
-          43.158267
+          20.7423561,
+          -156.89673340000002
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Rochester Red Wings",
-        "Ballpark": "Frontier Field",
-        "Lat": "43.158267",
-        "Long": "-77.619794",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "28",
+        "Name": "#28. Manele Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 20.7423561,
+        "Long": -156.89673340000002,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2827,18 +3758,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.683967,
-          41.360406
+          21.7011236,
+          -157.99435070000004
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Scranton/Wilks-Barre RailRaiders",
-        "Ballpark": "PNC Field",
-        "Lat": "41.360406",
-        "Long": "-75.683967",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "78",
+        "Name": "#78. Turtle Bay Resort (Palmer)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 21.7011236,
+        "Long": -157.99435070000004,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2846,18 +3777,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.165358,
-          43.079078
+          32.7740562,
+          -89.20392119999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Syracuse Chiefs",
-        "Ballpark": "NBT Bank Stadium",
-        "Lat": "43.079078",
-        "Long": "-76.165358",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "91",
+        "Name": "#91. Dancing Rabbit Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 32.7740562,
+        "Long": -89.20392119999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2865,18 +3796,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.849011,
-          35.227988
+          43.0934109,
+          -75.54845539999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Charlotte Knights",
-        "Ballpark": "BB&T Ballpark",
-        "Lat": "35.227988",
-        "Long": "-80.849011",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "52",
+        "Name": "#52. Atunyote Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.0934109,
+        "Long": -75.54845539999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2884,18 +3815,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.904186,
-          35.991689
+          44.1858008,
+          -121.17342739999998
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Durham Bulls",
-        "Ballpark": "Durham Bulls Athletic Park",
-        "Lat": "35.991689",
-        "Long": "-78.904186",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "33",
+        "Name": "#33. Pronghorn Club (Nicklaus)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 44.1858008,
+        "Long": -121.17342739999998,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2903,18 +3834,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.992367,
-          34.041494
+          36.1027434,
+          -97.18565569999998
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Gwinnett Braves",
-        "Ballpark": "Coolray Field",
-        "Lat": "34.041494",
-        "Long": "-83.992367",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "14",
+        "Name": "#14. Karsten Creek Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 36.1027434,
+        "Long": -97.18565569999998,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2922,18 +3853,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.278869,
-          36.842789
+          28.5552719,
+          -82.3878709
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Norfolk Tides",
-        "Ballpark": "Harbor Park",
-        "Lat": "36.842789",
-        "Long": "-76.278869",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "66",
+        "Name": "#66. World Woods Golf Club (Pine Barrens)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 28.5552719,
+        "Long": -82.3878709,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2941,18 +3872,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.010743,
-          39.968619
+          42.7299433,
+          -100.79329330000002
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Columbus Clippers",
-        "Ballpark": "Huntington Park",
-        "Lat": "39.968619",
-        "Long": "-83.010743",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "35",
+        "Name": "#35. The Prairie Club (Dunes)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 42.7299433,
+        "Long": -100.79329330000002,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2960,18 +3891,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.168333,
-          39.765
+          44.7790115,
+          -85.48835700000001
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Indianapolis Indians",
-        "Ballpark": "Victory Field",
-        "Lat": "39.765",
-        "Long": "-86.168333",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "81",
+        "Name": "#81. Grand Traverse Resort & Spa (The Bear)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 44.7790115,
+        "Long": -85.48835700000001,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2979,18 +3910,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.74465,
-          38.256186
+          33.7297774,
+          -118.34978419999999
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Louisville Bats",
-        "Ballpark": "Louisville Slugger Field",
-        "Lat": "38.256186",
-        "Long": "-85.744653",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "90",
+        "Name": "#90. Trump National Golf Club (Los Angelas)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 33.7297774,
+        "Long": -118.34978419999999,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -2998,18 +3929,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.538986,
-          41.648314
+          43.8532387,
+          -121.44797340000002
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "International League",
-        "Team": "Toledo Mud Hens",
-        "Ballpark": "Fifth Third Field",
-        "Lat": "41.648314",
-        "Long": "-83.538986",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "51",
+        "Name": "#51. Crosswater",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.8532387,
+        "Long": -121.44797340000002,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3017,18 +3948,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.31575,
-          25.718517
+          38.791226,
+          -104.85010069999998
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Sultanes de Monterrey",
-        "Ballpark": "Estadio de Beisbol Monterrey",
-        "Lat": "25.718517",
-        "Long": "-100.31575",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "32",
+        "Name": "#32. The Broadmoor Golf Club (East)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 38.791226,
+        "Long": -104.85010069999998,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3036,18 +3967,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.312292,
-          26.078825
+          44.456622,
+          -86.24248090000003
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Broncos de Reynosa",
-        "Ballpark": "Estadio Adolfo López Mateos",
-        "Lat": "26.078825",
-        "Long": "-98.312292",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "13",
+        "Name": "#13. Arcadia Bluffs Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 44.456622,
+        "Long": -86.24248090000003,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3055,18 +3986,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.978806,
-          25.433653
+          27.6901922,
+          -81.94422650000001
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Saraperos de Saltillo",
-        "Ballpark": "Estadio de Béisbol Francisco I. Madero",
-        "Lat": "25.433653",
-        "Long": "-100.978806",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "18",
+        "Name": "#18 & #24. Streamsong (Red & Blue)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 27.6901922,
+        "Long": -81.94422650000001,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3074,18 +4005,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.273542,
-          21.879776
+          30.643444,
+          -88.90350799999999
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Rieleros de Aguascalientes",
-        "Ballpark": "Parque Alberto Romo Chávez",
-        "Lat": "21.879776",
-        "Long": "-102.273542",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "36",
+        "Name": "#36. Fallen Oak Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 30.643444,
+        "Long": -88.90350799999999,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3093,18 +4024,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.429178,
-          25.539575
+          43.115301,
+          -75.58884790000002
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Vaqueros Laguna",
-        "Ballpark": "Estadio Revolución",
-        "Lat": "25.539575",
-        "Long": "-103.429178",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "82",
+        "Name": "#82. Kaluhyat Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.115301,
+        "Long": -75.58884790000002,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3112,18 +4043,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.095944,
-          19.404889
+          43.8296564,
+          -89.01301380000001
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Diablos Rojos del México",
-        "Ballpark": "Foro Sol",
-        "Lat": "19.404889",
-        "Long": "-99.095944",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "85",
+        "Name": "#85. The Golf Course of Lawsonia (Links)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.8296564,
+        "Long": -89.01301380000001,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3131,18 +4062,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.444117,
-          26.906914
+          33.7570594,
+          -78.79572129999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Acereros de Monclova",
-        "Ballpark": "Estadio De Béisbol Monclova",
-        "Lat": "26.906914",
-        "Long": "-101.444117",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "50",
+        "Name": "#50. The Dunes Golf & Beach Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 33.7570594,
+        "Long": -78.79572129999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3150,18 +4081,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.31575,
-          25.718517
+          36.6587242,
+          -80.41251940000001
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Sultanes de Monterrey",
-        "Ballpark": "Estadio de Beisbol Monterrey",
-        "Lat": "25.718517",
-        "Long": "-100.31575",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "31",
+        "Name": "#31. The Highland Course at Primland",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 36.6587242,
+        "Long": -80.41251940000001,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3169,18 +4100,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.91748,
-          32.483212
+          43.1740578,
+          -124.39136659999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Toros de Tijuana",
-        "Ballpark": "Estadio Gasmart",
-        "Lat": "32.483212",
-        "Long": "-116.91748",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "12",
+        "Name": "#12. Old MacDonald",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.1740578,
+        "Long": -124.39136659999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3188,18 +4119,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.312292,
-          26.078825
+          33.5772424,
+          -88.60736539999999
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Broncos de Reynosa",
-        "Ballpark": "Estadio Adolfo López Mateos",
-        "Lat": "26.078825",
-        "Long": "-98.312292",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "38",
+        "Name": "#38. Old Waverly Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 33.5772424,
+        "Long": -88.60736539999999,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3207,18 +4138,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.978806,
-          25.433653
+          38.5155347,
+          -86.69710829999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Saraperos de Saltillo",
-        "Ballpark": "Estadio de Béisbol Francisco I. Madero",
-        "Lat": "25.433653",
-        "Long": "-100.978806",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "83",
+        "Name": "#83. The Donald Ross Course at French Lick Resort",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 38.5155347,
+        "Long": -86.69710829999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3226,18 +4157,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.516906,
-          19.845797
+          45.3646716,
+          -85.03120660000002
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Piratas de Campeche",
-        "Ballpark": "Estadio Nelson Barrera",
-        "Lat": "19.845797",
-        "Long": "-90.516906",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "84",
+        "Name": "#84. Bay Harbor Golf Club (Links/Quarry)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 45.3646716,
+        "Long": -85.03120660000002,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3245,18 +4176,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.81932,
-          18.647458
+          36.6119957,
+          -121.94212649999997
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Delfines de Ciudad del Carmen",
-        "Ballpark": "Estadio Resurgimiento",
-        "Lat": "18.647458",
-        "Long": "-91.81932",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "49",
+        "Name": "#49. The Links at Spanish Bay",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 36.6119957,
+        "Long": -121.94212649999997,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3264,18 +4195,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.165377,
-          19.075178
+          37.9973173,
+          -79.8295766
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Pericos de Puebla",
-        "Ballpark": "Estadio Hermanos Serdán",
-        "Lat": "19.075178",
-        "Long": "-98.165377",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "30",
+        "Name": "#30. Omni Homestead (Cascades)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 37.9973173,
+        "Long": -79.8295766,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3283,18 +4214,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.713,
-          17.07
+          36.5849147,
+          -121.9556806
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Guerreros de Oaxaca",
-        "Ballpark": "Eduardo Vasconcelos Stadium",
-        "Lat": "17.07",
-        "Long": "-96.713",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "11",
+        "Name": "#11. Spyglass Hill Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 36.5849147,
+        "Long": -121.9556806,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3302,18 +4233,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.836861,
-          21.152525
+          44.0254844,
+          -121.36410599999999
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Tigres de Quintana Roo",
-        "Ballpark": "Estadio de Béisbol Beto Ávila",
-        "Lat": "21.152525",
-        "Long": "-86.836861",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "54",
+        "Name": "#54. Tetherow Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 44.0254844,
+        "Long": -121.36410599999999,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3321,18 +4252,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.944167,
-          17.976667
+          39.689191,
+          -106.695472
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Olmecas de Tabasco",
-        "Ballpark": "Estadio Centenario 27 de Febrero",
-        "Lat": "17.976667",
-        "Long": "-92.944167",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "86",
+        "Name": "#86. Red Sky Ranch & Golf Club (Fazio)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 39.689191,
+        "Long": -106.695472,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3340,18 +4271,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.122736,
-          19.165097
+          39.689191,
+          -106.695472
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Rojos del Águila de Veracruz",
-        "Ballpark": "Estadio Universitario Beto Avila",
-        "Lat": "19.165097",
-        "Long": "-96.122736",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "79",
+        "Name": "#79. Red Sky Golf Club (Norman)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 39.689191,
+        "Long": -106.695472,
+        "marker-color": "#00FA00"
       }
     },
     {
@@ -3359,18 +4290,968 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.595983,
-          20.941211
+          43.5625975,
+          -85.32997520000004
         ]
       },
       "properties": {
-        "Class": "Triple-A",
-        "League": "Mexican League",
-        "Team": "Leones de Yucatán",
-        "Ballpark": "Estadio de Béisbol Kukulkán",
-        "Lat": "20.941211",
-        "Long": "-89.595983",
-        "marker-color": "#9F0000"
+        "Class": "GolfDigest",
+        "Rank": "48",
+        "Name": "#48. Tullymore Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.5625975,
+        "Long": -85.32997520000004,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7859465,
+          -80.30816679999998
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "29",
+        "Name": "#29. The Greenbrier (Old White TPC)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 37.7859465,
+        "Long": -80.30816679999998,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7407587,
+          -73.45812419999999
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "9",
+        "Name": "#9. Bethpage State Park (Black)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 40.7407587,
+        "Long": -73.45812419999999,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.99124200000001,
+          -78.2110869
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "55",
+        "Name": "#55. Spring Creek Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 37.99124200000001,
+        "Long": -78.2110869,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.526454,
+          -69.88699659999997
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "87",
+        "Name": "#87. Belgrade Lakes Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 44.526454,
+        "Long": -69.88699659999997,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9595089,
+          -100.15026649999999
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "77",
+        "Name": "#77. Wild Horse Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 40.9595089,
+        "Long": -100.15026649999999,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8510334,
+          -87.73527050000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "47",
+        "Name": "#47. Whistling Straights (Irish)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.8510334,
+        "Long": -87.73527050000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0062197,
+          -155.8244224
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "27",
+        "Name": "#27. Mauna Kea Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 20.0062197,
+        "Long": -155.8244224,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2522343,
+          -88.39370559999998
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "8",
+        "Name": "#8. Erin Hills Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.2522343,
+        "Long": -88.39370559999998,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4115925,
+          -83.25161660000003
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "56",
+        "Name": "#56. Golf Club at Cuscowilla",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 33.4115925,
+        "Long": -83.25161660000003,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6652205,
+          -116.75828200000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "88",
+        "Name": "#88. Coeur D'Alene Resort Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 47.6652205,
+        "Long": -116.75828200000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.065554,
+          -81.86811499999999
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "76",
+        "Name": "#76. Linville Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 36.065554,
+        "Long": -81.86811499999999,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.970043,
+          -114.89369879999998
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "46",
+        "Name": "#46. Cascate Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 35.970043,
+        "Long": -114.89369879999998,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2004036,
+          -122.57055969999999
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "26",
+        "Name": "#26. Chambers Bay",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 47.2004036,
+        "Long": -122.57055969999999,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1740578,
+          -124.39136659999997
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "7",
+        "Name": "#7. Bandon Dunes",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.1740578,
+        "Long": -124.39136659999997,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8245204,
+          -92.319931
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "57",
+        "Name": "#57. The Wilderness at Fortune Bay",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 47.8245204,
+        "Long": -92.319931,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5847662,
+          -117.84046439999997
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "89",
+        "Name": "#89. Pelican Hill (Ocean North)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 33.5847662,
+        "Long": -117.84046439999997,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4332236,
+          -79.12143129999998
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "73",
+        "Name": "#73. Caledonia Golf & Fish Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 33.4332236,
+        "Long": -79.12143129999998,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5425431,
+          -76.1324305
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "45",
+        "Name": "#45. Bulle Rock",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 39.5425431,
+        "Long": -76.1324305,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5707783,
+          -92.3005114
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "25",
+        "Name": "#25. The Quarry at Giants Ridge",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 47.5707783,
+        "Long": -92.3005114,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2584295,
+          -115.10730269999999
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "6",
+        "Name": "#6. Shadow Creek Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 36.2584295,
+        "Long": -115.10730269999999,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.80633050000001,
+          -79.55167410000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "60",
+        "Name": "#60. Nemacolin Woodlands Resort (Mystic Rock)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 39.80633050000001,
+        "Long": -79.55167410000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0357111,
+          -117.02418460000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "92",
+        "Name": "#92. Maderas Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 33.0357111,
+        "Long": -117.02418460000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.397399,
+          -79.21367199999997
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "71",
+        "Name": "#71. Tobacco Road Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 35.397399,
+        "Long": -79.21367199999997,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.067707,
+          -121.63290010000003
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "44",
+        "Name": "#44. Cordevalle Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 37.067707,
+        "Long": -121.63290010000003,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6901922,
+          -81.94422650000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "24",
+        "Name": "#24. Streamsong (Blue)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 27.6901922,
+        "Long": -81.94422650000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18958,
+          -79.46782999999999
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "5",
+        "Name": "#5, #59, #80. Pinehurst Resort (Course No. 2, 4 & 8)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 35.18958,
+        "Long": -79.46782999999999,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3963602,
+          -94.37580789999998
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "63",
+        "Name": "#63. The Classic at Madden's Resort",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 46.3963602,
+        "Long": -94.37580789999998,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.427372,
+          -119.905756
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "93",
+        "Name": "#93. Sandpiper Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 34.427372,
+        "Long": -119.905756,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.271526,
+          -97.87699600000002
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "69",
+        "Name": "#69. Omni Barton Creek Resort & Spa (Fazio Canyons)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 30.271526,
+        "Long": -97.87699600000002,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.260962,
+          -79.50743899999998
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "43",
+        "Name": "#43. Dormie Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 35.260962,
+        "Long": -79.50743899999998,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5918914,
+          -84.52941579999998
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "23",
+        "Name": "#23. Forest Dunes Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 44.5918914,
+        "Long": -84.52941579999998,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8510334,
+          -87.73527050000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "4",
+        "Name": "#4. Whistling Straights (Straights)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.8510334,
+        "Long": -87.73527050000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2201442,
+          -159.4828213
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "65",
+        "Name": "#65. Makai Golf Club (Makai)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 22.2201442,
+        "Long": -159.4828213,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1313938,
+          -112.935499
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "94",
+        "Name": "#94. Old Works Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 46.1313938,
+        "Long": -112.935499,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6136012,
+          -123.00229079999997
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "67",
+        "Name": "#67. Pumpkin Ridge (Ghost Creek)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 45.6136012,
+        "Long": -123.00229079999997,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.8775328,
+          -93.21111630000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "42",
+        "Name": "#42. The Harvester Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 41.8775328,
+        "Long": -93.21111630000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.004556,
+          -122.02525609999998
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "21",
+        "Name": "#21. Pasatiempo Golf Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 37.004556,
+        "Long": -122.02525609999998,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6159382,
+          -80.01866960000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "3",
+        "Name": "#3. The Ocean Course",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 32.6159382,
+        "Long": -80.01866960000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6666957,
+          -98.40071369999998
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "68",
+        "Name": "#68. TPC San Antonio (AT&T Oaks)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 29.6666957,
+        "Long": -98.40071369999998,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3938536,
+          -83.2333777
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "95",
+        "Name": "#95. Great Waters Course at Reynolds Plantation",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 33.3938536,
+        "Long": -83.2333777,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1969258,
+          -79.39188730000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "64",
+        "Name": "#64. Pine Needles Lodge & Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 35.1969258,
+        "Long": -79.39188730000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8311615,
+          -114.06052339999997
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "41",
+        "Name": "#41. Wolf Creek Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 36.8311615,
+        "Long": -114.06052339999997,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0071183,
+          -156.64026660000002
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "20",
+        "Name": "#20. Kapalua (Plantation)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 21.0071183,
+        "Long": -156.64026660000002,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1740578,
+          -124.39136659999997
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "2",
+        "Name": "#2. Pacific Dunes",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.1740578,
+        "Long": -124.39136659999997,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7139072,
+          -87.81476570000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "70",
+        "Name": "#70. The Bull at Pinehurst Farms",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 43.7139072,
+        "Long": -87.81476570000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5756279,
+          -93.19845620000001
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "98",
+        "Name": "#98. Buffalo Ridge Golf Club",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 36.5756279,
+        "Long": -93.19845620000001,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2668768,
+          -76.69971350000003
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "62",
+        "Name": "#62. Golden Horseshoe (Gold)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 37.2668768,
+        "Long": -76.69971350000003,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6433175,
+          -116.26743140000002
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "40",
+        "Name": "#40. PGA West (TPC Stadium)",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 33.6433175,
+        "Long": -116.26743140000002,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.137399,
+          -80.8093864
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "19",
+        "Name": "#19. Harbour Town Golf Links",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2017/01/Top-100-played.png",
+        "Lat": 32.137399,
+        "Long": -80.8093864,
+        "marker-color": "#00FA00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5686453,
+          -121.94933349999997
+        ]
+      },
+      "properties": {
+        "Class": "GolfDigest",
+        "Rank": "1",
+        "Name": "#1. Pebble Beach Golf Links",
+        "descripton": "http://www.thedapperdrive.com/wp-content/uploads/2016/09/Top-100-still-to-played.png",
+        "Lat": 36.5686453,
+        "Long": -121.94933349999997,
+        "marker-color": "#00FA00"
       }
     }
   ]

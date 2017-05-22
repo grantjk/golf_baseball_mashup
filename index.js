@@ -79,7 +79,7 @@ function readGolfDigest() {
       type: "Feature",
       geometry: {
         type: "Point",
-        coordinates: _.take(coords, 2),
+        coordinates: _.reverse(_.take(coords, 2)),
       },
       properties: {
         Class: "GolfDigest",
